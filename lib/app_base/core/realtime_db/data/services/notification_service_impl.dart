@@ -3,7 +3,7 @@ import 'package:realtime_ex/app_base/core/realtime_db/domain/service/notificatio
 
 class NotificationServiceImpl extends NotificationService{
   @override
-  void requestPErmissionToUser() async{
+  void requestPermissionToUser() async{
    FirebaseMessaging messaging = FirebaseMessaging.instance;
    NotificationSettings settings = await messaging.requestPermission(
      alert: true,

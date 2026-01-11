@@ -16,7 +16,7 @@ class _RealTimeDatabaseWithFCMState extends State<RealTimeDatabaseWithFCM> {
   void initState() {
     super.initState();
     NotificationServiceImpl userPermissionRequest = NotificationServiceImpl();
-    userPermissionRequest.requestPErmissionToUser();
+    userPermissionRequest.requestPermissionToUser();
   }
   
   @override

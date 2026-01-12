@@ -1,0 +1,1533 @@
+{
+  "app_name": "Suez Canal Bank",
+  "loading": "Loading...",
+  "check_internet_connection": "kindly check your network setting",
+  "no_internet": "No Internet Connection",
+  "language": "العربية",
+  "user_name": "Username",
+  "welcome_to": "Welcome!",
+  "password": "Password",
+  "forgot_password": "Forgot password?",
+  "forgot_password_title": "Forgot password",
+  "log_in": "Log in",
+  "user_name_required": "Username is required",
+  "user_name_must_be": "username must be of 8 to 20 characters.",
+  "password_required": "Password is required",
+  "account_locked": "Account locked",
+  "account_locked_content": "You've exceeded the maximum number of login attempts. For your security, your account has been locked. Please reset your password",
+  "unlock_account": "Unlock account",
+  "reset_password": "Reset password",
+  "cancel": "Cancel",
+  "password_expired": "Password expired",
+  "password_expired_content": "Your password has expired. Please reset it to continue accessing your account",
+  "update_password": "Update Password",
+  "already_logged_in": "Already Logged In",
+  "already_logged_in_content": "You're currently signed in on another device. To continue here, we'll log you out from the other",
+  "continue_button": "Continue",
+  "invalid_username": "Invalid username or password",
+  "invalid_username_content": "Please check your login details and try again.",
+  "inactive_user": "User inactive",
+  "inactive_user_content": "This registered user hasn't been active for a while.",
+  "activate": "Active",
+  "error": "Error",
+  "page_not_found": "Page not found",
+  "login_failed": "Login failed",
+  "invalid_code": "Invalid OTP, please click on resend code",
+  "attempts_left": "{count} attempts left",
+  "@attempts_left": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "max_attempts_exceeded": "You have exceeded the maximum number of invalid OTP attempts. Please, contact the bank for further assistant",
+  "resend_code": "Resend Code",
+  "resend_code_timer": "{seconds} s",
+  "@resend_code_timer": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "help": "Help",
+  "help_soft_token": "Help",
+  "verification": "Verification",
+  "otp_sent_message": "OTP code sent to your registered mobile number.",
+  "sorry": "Sorry!",
+  "new_password": "New Password",
+  "confirm_new_password": "Confirm new password",
+  "register_new_user_header": "Enter unique username and password. keep them confidential. you will need them for future logins.",
+  "validation_length_characters": "8 - 64 characters",
+  "validation_number": "At least 1 number",
+  "validation_upper_lower": "At least 1 upper and lowercase character",
+  "validation_special_character": "At least 1 special character",
+  "password_should_contains": "Password should contains the following:",
+  "strong": "Strong",
+  "weak": "Weak",
+  "medium": "Medium",
+  "confirm_password_required": "Confirm Password is required",
+  "confirm_password_match_password": "Confirm password not match password",
+  "password_not_valid": "Password is invalid",
+  "password_not_valid_register": "Password must be stronger and not easily guessable",
+  "banking_made_easy": "Banking Made Easy – Start Your Journey Now!",
+  "select_registration_method": "Select a Registration Method to Get Started.",
+  "cif_number": "CIF number",
+  "account_number": "Account number",
+  "account_number_iban": "Account number/IBAN",
+  "card_number": "Card number",
+  "enter_cif_info": "Enter this information to verify your account.",
+  "cif_number_hint": "You can find your customer information file number \n (CIF) in your bank statements or by contacting \n customer support at {number}.",
+  "national_id_number": "National ID / Passport number",
+  "cif_number_required": "CIF number is required",
+  "card_number_required": "Card number is required",
+  "account_number_required": "Account number is required",
+  "national_id_required": "National ID / Passport number is required",
+  "contact_bank": "Contact Bank",
+  "register_new_user": "Register new user",
+  "terms_and_conditions": "Terms & Conditions",
+  "terms_and_conditions_description": "Please read & accept the terms and conditions to continue registration.",
+  "i_have_read_and_agree": "I have read and agree to terms & conditions",
+  "terms_and_conditions_agreement": "I have read and agree to ",
+  "failed_to_load_terms": "Failed to load terms",
+  "new_user": "New user?",
+  "register": "Register",
+  "terms_agreement_required": "You need to agree to the terms and \n conditions to continue.",
+  "ok": "Ok",
+  "okay": "Okay",
+  "update_now": "Update Now",
+  "update": "Update",
+  "later": "Later",
+  "retry_otp_layer": "You have recently resend the OTP, Please retry after 88 seconds",
+  "attention": "Attention!",
+  "undergoing_maintenance": "We are currently undergoing maintenance.",
+  "done": "Done",
+  "success_activation_message_title": "Activation Completed!",
+  "success_register_message_title": "Registration Completed!",
+  "success_register_message_body": "Your account is set up. Access your banking services securely anytime.",
+  "our_service_will_be_back_up": "Our service will be back up and running soon!",
+  "confirm_exit": "Confirm Exit",
+  "exit_message": "Do you really want to exit the app?",
+  "exit": "Exit",
+  "card_pin_hint": "It is the card’s 4-digit code entered over the atm",
+  "card_pin": "Card PIN",
+  "card_pin_required": "Card PIN is required",
+  "card_pin_invalid": "Card PIN is invalid",
+  "home": "Home",
+  "transfer": "Transfer",
+  "cards": "Cards",
+  "menu": "Menu",
+  "logout": "Logout",
+  "please_sign_in_first": "Please sign in first to use biometrics.",
+  "username": "Username",
+  "hi": "Hi,",
+  "transfers": "Transfers",
+  "pay_bills": "Pay Bills",
+  "converter": "Converter",
+  "add_new": "Add new",
+  "current_account": "Current Account",
+  "current_accounts": "Current Accounts",
+  "total_amount": "Total Amount",
+  "accounts": "Accounts",
+  "egp": "EGP",
+  "egp_en": "EGP",
+  "cd_and_td": "Certificates & Time deposits",
+  "cer_of_deposit": "Certificate of deposit",
+  "time_of_deposit": "Time of deposit",
+  "weekend_saver": "Weekend Saver",
+  "name": "Name",
+  "loans_overdraft": "Loans & Overdraft",
+  "next_due_date": "Next due date:",
+  "available_limit": "Available limit",
+  "available_balance": "Available Balance",
+  "debit_card_number": "Debit card number",
+  "credit_card": "Credit card",
+  "gold": "Gold",
+  "platinum": "Platinum",
+  "view_all": "View all",
+  "loan_name": "Loan Name",
+  "next_due_amount": "Next due amount:",
+  "apply_for_new": "Apply for new",
+  "certificate_name": "Certificate Name",
+  "open_new_account": "Open new account",
+  "next_interest_amount": "Next interest amount:",
+  "next_interest_date": "Next interest date:",
+  "interest_date": "Interest Date",
+  "total_balance": "Total Balance",
+  "transaction": "Transactions",
+  "successful": "Successful",
+  "hot_deal": "Hot deal",
+  "buy_one_desc": "Buy one get one 50%",
+  "days": "days",
+  "offers": "Offers",
+  "all_offers": "All offers",
+  "no_recent_transactions": "No recent transfer",
+  "could_not_load_transactions": "we couldn{shortcut}t load transfers list",
+  "reload": "Reload",
+  "quick_actions": "Quick actions",
+  "quick_actions_sub_title": "Customize your quick actions by removing or reordering items.",
+  "pay_credit": "Pay credit",
+  "donate": "Donate",
+  "exchange_rate": "Exchange rate:",
+  "open_td": "Open TD",
+  "open_cd": "Open CD",
+  "open_account": "Open Account",
+  "request_chequebook": "Request Chequebook",
+  "locate_us": "Locate Us",
+  "support": "Support",
+  "something_went_wrong": "Something went wrong!",
+  "add_new_section": "Add new sections",
+  "edit_dashboard": "Edit dashboard",
+  "edit_dashboard_header": "Customize your dashboard",
+  "edit_dashboard_header_content": "Hold and drag to reorder sections or cards. Hide what you don’t need for a cleaner view.",
+  "we_could_not_load_terms_and_conditions": "we couldn’t load terms and conditions",
+  "search": "Search",
+  "beneficiaries": "Beneficiaries",
+  "soft_tokens": "Soft Token",
+  "more": "More",
+  "management": "Management",
+  "settings": "Settings",
+  "activate_tokens": "Activate your token",
+  "welcome_to_online_transfer": "Welcome to our online transfer service, you can now transfer to any bank in Egypt. As using this service require the download of soft token via App store or play store",
+  "to_download_the_app": "To download the App",
+  "click_here": "Click here",
+  "generate_my_token": "Generate my token",
+  "please_insert_activation": "Please insert Activation Code and serial Number in SCB Token Application at your mobile",
+  "please_insert_generated_code": "Please insert the registration code generated from SCB Token",
+  "serial_number": "Serial number",
+  "your_activation_code_is": "Activation code",
+  "enter_register_code": "Enter your Registration code",
+  "register_code": "Registration code",
+  "success_register_tokens_content": "Your token is successfully activated. you can perform transaction now",
+  "you_must_activate_soft_tokens": "You must activate soft tokens first to add beneficiary ",
+  "activate_soft_tokens": "Activate soft tokens",
+  "soft_tokens_already_activated": "Soft tokens already activated",
+  "manage_beneficiaries": "Manage Beneficiaries",
+  "beneficiary_list": "Beneficiary List",
+  "currently_dn_have_any_beneficiary": "Currently you don’t have any beneficiary",
+  "one_day_remaining": "{days} day left",
+  "days_remaining": "{days} days left",
+  "days_v2_remaining": "{days} days left",
+  "expires_today": "Expires today",
+  "expired_days_ago": "Expired {days} days ago",
+  "no_recent_offer": "No recent offers yet",
+  "could_not_load_offers": "we couldn’t load offers list",
+  "could_not_load_accounts": "we couldn’t load accounts list",
+  "hide_section": "Hide section",
+  "hide": "Hide",
+  "show_more_accounts": "Show more accounts",
+  "show_more_loans": "Show more loans",
+  "show_more_deposits": "Show more deposits",
+  "show_more_offers": "Show more offers",
+  "show_more_transactions": "Show more transactions",
+  "show_more_cards": "Show more cards",
+  "own_accounts": "Own Accounts",
+  "within_scb": "Within SCB",
+  "local": "Local",
+  "new_transfer": "New Transfer",
+  "transfer_history": "Transfer History",
+  "transfer_disclaimer": "Transfers submitted after 3:00 PM will be processed on the next business day.",
+  "schedule_transactions": "Schedule Transactions",
+  "top_pick_for_you": "Top Picks for You",
+  "account": "Account",
+  "wallet": "Wallet",
+  "mobile": "Mobile",
+  "edit": "Edit",
+  "view_more": "View more",
+  "view_less": "View less",
+  "currently_you_dn_have_any_beneficiary": "Currently you don’t have any beneficiary",
+  "could_not_load_beneficiaries": "we couldn{shortcut}t load beneficiaries list",
+  "edit_beneficiary": "Edit Beneficiary",
+  "save_updates": "Save Updates",
+  "delete_beneficiary": "Delete Beneficiary",
+  "beneficiary_nickname": "Beneficiary Nickname",
+  "bank_name": "Bank Name",
+  "delete": "Delete",
+  "confirm_deletion": "Confirm Deletion",
+  "confirm_deletion_msg": "Are you sure you want to delete this beneficiary from favorite list?",
+  "beneficiary_deleted_msg": "Beneficiary deleted successfully",
+  "beneficiary_updated_msg": "Beneficiary list has been updated",
+  "confirm": "Confirm",
+  "summary": "Summary",
+  "amount_required": "Minimum transfer amount is 1",
+  "from_required": "Select from account to proceed",
+  "to_required": "Select to account to proceed",
+  "transfer_limits": "Transfer Limits",
+  "date": "Date: ",
+  "reference": "Reference: ",
+  "schedule_transfer": "Schedule Transfer",
+  "from": "From",
+  "to": "To",
+  "select_account": "Select account",
+  "transfer_successful": "Transfer Successful!",
+  "rate": "Rate",
+  "equal": "=",
+  "minus": "-",
+  "add_to_quick_transfer": "Add to Quick Transfer",
+  "add_to_quick_beneficiary": "Add to Beneficiary",
+  "nick_name": "Nick name",
+  "note_optional": "Notes (Optional)",
+  "account_number_less_16": "Account number must be 16 digits.",
+  "nick_name_required": "Nick name required",
+  "dot": ".",
+  "activated": "Activated",
+  "not_activated": "Not Activated",
+  "not_registered": "Not Registered",
+  "registration_code_invalid": "Registration code is invalid.",
+  "note": "Notes (Optional)",
+  "notes": "Notes:",
+  "notes_": "Notes",
+  "share": "Share",
+  "send_money_to": "Send Money To",
+  "card": "Card",
+  "token_activation": "Token activation",
+  "token_activation_msg": "Soft token needs to be activated first to proceed",
+  "transfer_limit_exceeded": "Transfer limit is exceeded",
+  "update_available": "Update Available",
+  "new_version_available": "A new version is available. We recommend updating for the best experience.",
+  "update_upper_cased": "UPDATE",
+  "update_required": "Update Required",
+  "add": "Add",
+  "beneficiary_added_msg": "Beneficiary added successfully",
+  "no_beneficiaries_yet": "No beneficiaries yet",
+  "once_you_add_beneficiary_they_will_show": "Once you add a beneficiary, they{shortcut}ll show up here.",
+  "no_matches_found": "No matches found",
+  "try_search_with_different_keyboard": "Try searching with different keywords.",
+  "search_": "Search...",
+  "nick_name_characters_error_msg": "Nickname must be 2-35 characters",
+  "a_new_version_available": "A new version of the app is available! Update\n  to latest version for new features and improvements.",
+  "app_no_longer_supported": "Your app version is outdated and no longer supported. Please update to continue using the app.",
+  "we_could_not_load_you_list": "We couldn’t reload your list",
+  "we_could_not_load_the_list": "We couldn{shortcut}t reload the list",
+  "transfer_not_available": "Transfer not available",
+  "transfer_between_own_accounts": "Transfer between own accounts is currently not available due to having single account.",
+  "cancel_transfer": "Cancel Transfer",
+  "cancel_transfer_content": "Are you sure you want to close this screen? Any entered details will be lost.",
+  "yes": "Yes",
+  "transfer_type": "Transfer Type",
+  "transfer_type_": "Transfer type",
+  "credited_amount": "Credited amount:",
+  "own": "Own",
+  "account_number_invalid": "Account number/IBAN is invalid.",
+  "card_number_invalid": "Card number is invalid.",
+  "card_number_register_invalid": "Card number is invalid.",
+  "could_not_load_transfer_history": "We couldn't load your Transfer history",
+  "no_transfers": "No Transfers",
+  "own_account": "Own Account",
+  "recent_transfers": "Recent Transfers",
+  "transfers_history": "Transfers History",
+  "normal": "Normal",
+  "ipn_instant": "Instant Transfer IPN",
+  "payment_address": "Payment Address",
+  "account_iban": "Account/IBAN",
+  "local_transfer": "Local Transfer",
+  "select_bank": "Select bank",
+  "beneficiary_name": "Beneficiary name",
+  "beneficiary_name_": "Beneficiary Name",
+  "bank_name_required": "Bank name is required",
+  "beneficiary_name_required": "Beneficiary name is required",
+  "transfer_details": "Transfer details",
+  "repeat_transfer": "Repeat transfer",
+  "scheduled": "Scheduled",
+  "amount_or_name": "Amount or name",
+  "select_date_range": "Select Date Range",
+  "apply": "Apply",
+  "start_date": "Start Date",
+  "end_date": "End Date",
+  "request_a_card": "Request a card",
+  "available_balance_is_insufficient": "Available balance is insufficient",
+  "amount_with_currency": "{amount} {currency}",
+  "@amount_with_currency": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "card_last_4_digits": "**** {digits}",
+  "@card_last_4_digits": {
+    "placeholders": {
+      "digits": {
+        "type": "String"
+      }
+    }
+  },
+  "due_amount": "Due Amount:",
+  "due_date": "Due Date:",
+  "card_details": "Card Details",
+  "pay_card": "Pay Card",
+  "today": "Today",
+  "last_week": "Last week",
+  "last_month": "Last month",
+  "last_3_months": "Last 3 months",
+  "select_date": "Select Date",
+  "card_transactions": "Card Transactions",
+  "card_limit": "Card limit",
+  "no_transactions_yet": "No transactions yet",
+  "fractional_amount_part": ".{decimal}",
+  "@fractional_amount_part": {
+    "placeholders": {
+      "decimal": {
+        "type": "String"
+      }
+    }
+  },
+  "hidden_amount_asterisks": "********",
+  "we_could_not_load_your_transactions": "We couldn't load your transactions",
+  "otp_code_sent_to_your_number": "Please enter the OTP from your SCB token app.",
+  "this_fields_accept_2_char": "This field accepts minimum 2 letters",
+  "transfer_error": "We couldn't complete your transfer due to an unexpected error. Please try again later.",
+  "enable": "Enable",
+  "disable": "Disable",
+  "enter_password": "Enter Password",
+  "account_details": "Account Details",
+  "open_new_deposit": "Open New Deposit",
+  "interest_rate": "Interest Rate",
+  "pending_amount": "Pending Amount",
+  "loan_details": "Loans Details",
+  "details": "Details",
+  "next_installment_amount": "Next Installment Amount",
+  "next_installment_date": "Next Installment Date",
+  "paid_installments": "Paid Installments",
+  "remaining": "Remaining",
+  "installment_frequency": "Installment Frequency",
+  "fixed_rate": "Fixed Rate",
+  "maturity_left": "Maturity Left",
+  "collateral_type": "Collateral Type",
+  "issued_date": "Issued Date",
+  "na": "N/A",
+  "loan_payments": "Loan Payments",
+  "loan_payment": "Loan Payment",
+  "upcoming": "Upcoming",
+  "paid": "Paid",
+  "due": "Overdue",
+  "request_cheque_book": "Request Chequebook",
+  "services": "Services",
+  "select_number": "Select number",
+  "page": "Page",
+  "fees": "Fees",
+  "select_account_required_msg": "Select account is required",
+  "select_leaves_error_msg": "Select the Leaves number to proceed",
+  "need_agree_terms": "You need to agree to the terms and conditions to continue.",
+  "submitted_successfully": "Submitted Successfully!",
+  "pages_cheques": "Pages Cheques",
+  "more_details": "More Details",
+  "request_status": "Request Status",
+  "current": "Current",
+  "not_eligible_request_msg": "You’re Not Eligible to Request a Chequebook",
+  "deposit_details": "Deposit Details",
+  "deposit_no": "Deposit no. {number}",
+  "certificate_no": "Certificate no. {number}",
+  "@deposit_no": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "months_left": "/{number} Months",
+  "@months_left": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "redeemed_account": "Redeemed Account",
+  "interest_account": "Interest Account",
+  "payout_details": "Payout Details",
+  "interest_frequency": "Interest Frequency",
+  "blocked_amount": "Blocked Amount",
+  "percent_rate_with_type": "{rate}% {type} rate",
+  "@percent_rate_with_type": {
+    "placeholders": {
+      "rate": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "loan_no": "Loan no.",
+  "chequebook_details": "Chequebook Details",
+  "used": "Used",
+  "used_cheques": "Used Cheques",
+  "execution_blocked": "Execution blocked",
+  "select_service": "Select Service",
+  "chequebook": "Chequebook",
+  "my_products": "My Products",
+  "products": "Products",
+  "empty_chequebooks_msg": "No chequebooks yet",
+  "error_chequebooks_msg": "We couldn{shortcut}t load your chequebooks",
+  "empty_used_cheques_msg": "No used cheques yet",
+  "error_used_cheques_msg": "We couldn{shortcut}t load your cheques",
+  "loans": "Loans",
+  "saving_account": "Savings Account",
+  "we_could_not_load_your_loans": "We couldn't load your loans",
+  "we_could_not_load_your_payments": "We couldn't load your payments",
+  "saving_accounts": "Saving Accounts",
+  "current_affairs": "Current Affairs",
+  "certificates": "Certificates",
+  "time_deposits": "Time Deposit",
+  "deposits": "Deposits",
+  "deposits_dashboard": "Deposits",
+  "up_to_interest_rate": "Up to",
+  "cheques": "Cheques",
+  "not_available": "Not Available",
+  "available": "Available",
+  "value_percent": "{value}%",
+  "@value_percent": {
+    "placeholders": {
+      "value": {
+        "type": "double"
+      }
+    }
+  },
+  "min_amount": "Min. Amount",
+  "no_min_amount": "No Minimum amount",
+  "debited_account": "Debited account",
+  "no_products_found": "No products found",
+  "amount_": "Amount",
+  "minimum_opening_amount_is": "Minimum opening amount is {amount} {currency}",
+  "@minimum_opening_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "minimum_opening_amount_cd_is": "Minimum opening amount is {amount} {currency}",
+  "minimum_opening_amount_td_is": "Minimum opening amount is {amount} {currency}",
+  "@minimum_opening_amount_td_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "@minimum_opening_amount_cd_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "account_opened_successfully": "Account Opened successfully",
+  "history": "History",
+  "in_progress": "In progress",
+  "rejected": "Rejected",
+  "delivered": "Delivered",
+  "request_date_and_time": "Request date and time",
+  "request_no": "Request no.",
+  "empty_requests_msg": "No requests yet",
+  "error_requests_msg": "We couldn{shortcut}t load your requests",
+  "funding_details": "Funding Details",
+  "deposit_account": "Deposit Account",
+  "amount_only": "Amount",
+  "minimum_certificate_amount_is": "The minimum certificate amount is {amount} and its multiples",
+  "@minimum_certificate_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "minimum_amount_is": "The minimum opening amount is {amount} {currency}",
+  "@minimum_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "minimum_with_amount_and_currency": "Minimum {amount} {currency}",
+  "@minimum_with_amount_and_currency": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "opened_successfully": "Opened successfully",
+  "amount_is_required": "Amount is required",
+  "interest_account_is_required": "Interest account is required",
+  "no_products_found_type": "No {type} Products Found",
+  "@no_products_found_type": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "terms_and_conditions_agreement_required": "You need to agree to the terms and conditions to continue.",
+  "duration": "Duration",
+  "frequency": "Frequency",
+  "added": "Added",
+  "overdue_amount": "Overdue Amount",
+  "multiple_of_minimum_amount_td": "Opening amount must be {amount} {currency} and its multiplies",
+  "@multiple_of_minimum_amount_td": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "multiple_of_minimum_amount_cd": "Opening amount must be {amount} {currency} and its multiplies",
+  "@multiple_of_minimum_amount_cd": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "debited_amount": "Debited amount",
+  "no_results_found": "No results found",
+  "account_category_number": "{categoryName} - {accountId}",
+  "@account_category_number": {
+    "placeholders": {
+      "categoryName": {
+        "type": "String"
+      },
+      "accountId": {
+        "type": "String"
+      }
+    }
+  },
+  "transactions_list": "Transactions List",
+  "transaction_date_format": "{day} {month} {year}",
+  "@transaction_date_format": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "no_accounts_found": "No accounts found",
+  "no_cards_found": "No cards found",
+  "no_deposit_accounts_found": "No deposit accounts found",
+  "credit_card_payment": "Credit Card Payment",
+  "deduct_amount_from": "Deduct amount from",
+  "payment_amount": "Payment amount",
+  "full_due_amount": "Full Due Amount:",
+  "min_due_amount": "Min Due Amount:",
+  "other_amount": "Other Amount",
+  "transaction_limit_exceeded": "Transaction limit exceeded",
+  "transfer_to_charity": "Transfer to Charity",
+  "select_charity": "Select Charity",
+  "charity": "Charity",
+  "this_field_is_required": "This filed is required ",
+  "transaction_date_format_with_time": "{day} {month} {year} {time}",
+  "@transaction_date_format_with_time": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "amount_must_be_greater_than_min_due_amount": "Amount must be greater than {minAmount}",
+  "@amount_must_be_greater_than_min_due_amount": {
+    "placeholders": {
+      "minAmount": {
+        "type": "String"
+      }
+    }
+  },
+  "reference_": "Reference",
+  "date_": "Date",
+  "transaction_type": "Transaction Type",
+  "iban": "IBAN",
+  "wallet_number": "Wallet number",
+  "mobile_number": "Mobile number",
+  "mobile_no_is_invalid": "Mobile number is invalid",
+  "wallet_no_is_valid": "Wallet number is invalid",
+  "ipn_address": "IPA Address",
+  "ipn_address_invalid": "IPA address is invalid",
+  "savings": "Savings",
+  "change_password": "Change Password",
+  "change_pass_page_msg": "Enter unique password. keep them confidential. you will need them for future logins.",
+  "disclaimer_minimum_amount_is_and_its_multiples": "The minimum {type} amount is {amount} and its multiples",
+  "@disclaimer_minimum_amount_is_and_its_multiples": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "deposit": "Deposit",
+  "current_password": "Current password",
+  "current_password_invalid": "Current password is invalid",
+  "successful_change": "Successful Change!",
+  "password_changed_successfully": "The password is changed successfully.",
+  "login": "Login",
+  "contactUs": "Contact Us",
+  "email": "Email",
+  "website": "Website",
+  "call_center": "Call Center",
+  "follow_us": "Follow Us",
+  "online_support": "Online Support",
+  "exchange_rate_": "Exchange Rates",
+  "last_update": "Last Update: {time}",
+  "@last_update": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "currency_converter": "Currency Converter",
+  "egp_exchange_rate": "EGP Exchange Rate",
+  "buy": "Buy",
+  "sell": "Sell",
+  "selected_currency": "Select Currency",
+  "hide_balance_prompt_title_hidden": "Balances are now hidden",
+  "hide_balance_prompt_title_visible": "Balances are now visible",
+  "hide_balance_prompt_subtitle": "Flip your screen down to quickly hide or show balances, or tap the eye icon above your balance",
+  "got_it": "Got it",
+  "dont_show_again": "Don't show again",
+  "hide_balance_by_default": "Hide Balance By Default",
+  "cd_no": "CD No. {number}",
+  "@cd_no": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "td_no": "TD No. {number}",
+  "@td_no": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "certificate": "Certificate",
+  "debited_account_is_required": "Please select debited account first",
+  "out_side_egypt": "Outside Egypt",
+  "out_side_egypt_number": "(+202) 19093",
+  "maximum_amount_is": "Max. {amount} {currency}",
+  "@maximum_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "min_amount_is": "Min. {amount} {currency}",
+  "@min_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "login_to_manage": "Log in to manage your finances",
+  "new_password_field": "New password",
+  "confirm_new_password_field": "Confirm new password",
+  "we_could_not_load_your_cards": "We couldn't load your cards",
+  "we_could_not_load_your_accounts": "We couldn't load your accounts",
+  "we_could_not_load_your_cd": "We couldn’t load your Certificates",
+  "we_could_not_load_your_td": "We couldn’t load your Tُُime deposits",
+  "we_could_not_load_offers": "We couldn't load offers",
+  "password_dn_match": "Passwords don{shortcut}t match",
+  "edit_actions": "Edit Actions",
+  "current_pass_required": "Current password is required",
+  "ahmed": "Ahmed",
+  "another_account": "Another Account",
+  "are_you_sure_you_want_to_exit": "Are you sure you want to exit?",
+  "are_you_sure_you_want_to_exit_info": "Closing will discard your changes",
+  "request_date": "Request date",
+  "overdue_days": "Overdue days",
+  "frequently_transferred_to": "Frequently transferred to",
+  "select_favorite_beneficiary": "Select Favorite Beneficiary",
+  "maichel": "Maichel",
+  "one_time": "One Time",
+  "recurring": "Recurring",
+  "select_start_date": "Select Start Date",
+  "number_of_occurrences": "Number of occurrences",
+  "daily": "Daily",
+  "weekly": "Weekly",
+  "monthly": "Monthly",
+  "execution_date": "Execution Date",
+  "occurrences": "Occurrences",
+  "times": "{times} Times",
+  "@times": {
+    "placeholders": {
+      "times": {
+        "type": "String"
+      }
+    }
+  },
+  "date_of_submission": "Date of submission",
+  "date_of_execution": "Date of execution",
+  "maximum_number_of_recurring_is": "Maximum number of recurring is {max}",
+  "@maximum_number_of_recurring_is": {
+    "placeholders": {
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "account_type": "{accountType} Account",
+  "@account_type": {
+    "placeholders": {
+      "accountType": {
+        "type": "String"
+      }
+    }
+  },
+  "no_beneficiaries_added": "No beneficiaries added",
+  "you_can_add_a_beneficiary_after_making_a_transfer_for_quicker_access_next_time": "You can add a beneficiary after making a transfer for quicker access next time.",
+  "branches": "Branches",
+  "atm": "ATM",
+  "list_view": "List View",
+  "selected": "Selected",
+  "direction": "Direction",
+  "branches_list": "Branches List",
+  "atm_list": "ATM List",
+  "open_till": "Open {time}",
+  "@open_till": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "kilometers_away": "{distance} Km away",
+  "@kilometers_away": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "transfer_amount": "{optional}Transfer amount:",
+  "@transfer_amount": {
+    "placeholders": {
+      "optional": {
+        "type": "String?"
+      }
+    }
+  },
+  "transfer_date": "{optional}Transfer date:",
+  "@transfer_date": {
+    "placeholders": {
+      "optional": {
+        "type": "String?"
+      }
+    }
+  },
+  "next": "Next",
+  "new_text": "New",
+  "cancel_schedule_transfer": "Cancel Schedule Transfer",
+  "schedule_details": "Schedule Details",
+  "schedule_transfer_empty_message": "You don't have any scheduled transfers to display",
+  "schedule_cancellation_dialog_title": "Schedule Cancellation",
+  "schedule_cancellation_dialog_content": "By canceling this scheduled transfer, all upcoming transfers won't be executed.",
+  "cancel_schedule": "Cancel Schedule",
+  "interest_rate_is_required": "Interest rate is required",
+  "select_currency": "Select Currency",
+  "forget_pass_page_msg": "To reset your password, please verify your details.\nWe'll send a code to your registered mobile number.",
+  "scb_card_num": "Card number",
+  "card_pin_num": "Card Pin Number",
+  "exp_date": "MM/YY",
+  "pin_msg_atm": "This Pin is the password you use on the ATM",
+  "invalid_card_number": "Invalid card number",
+  "password_incorrect": "Password is not correct",
+  "successful_reset": "Successful reset!",
+  "password_reset_successfully": "The password is reset successfully.",
+  "some_data_invalid": "Some of the entered data is invalid, please re-check and try again.",
+  "amount_must_be_less_than_max_due_amount": "Amount must be less than {maxAmount}",
+  "@amount_must_be_less_than_max_due_amount": {
+    "placeholders": {
+      "maxAmount": {
+        "type": "String"
+      }
+    }
+  },
+  "cant_show_nearby_branches_atm": "Can't show nearby branches/ATMs",
+  "cant_show_nearby_branches_atm_info": "We couldn't access your location. To view nearby branches and ATMs, please enable location services in your device settings.",
+  "enable_location": "Enable Location",
+  "x_results_found": "{count} results found",
+  "@x_results_found": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "deactivate": "Deactivate",
+  "session_expired_message": "Session has been expired, Please log in again to continue.",
+  "session_expired": "Session expired",
+  "connection_timeout": "Connection Timeout",
+  "compromised_device_message": "This device is rooted or jail-broken. For security reasons, you should not use this app. It will not work.",
+  "compromised_device_title": "Security Alert",
+  "swift_code": "Swift Code",
+  "iban_number": "IBAN Number",
+  "copied_successfully": "Copied successfully",
+  "copied": "Copied",
+  "disclaimer_cd": "The minimum certificate amount is {amount}",
+  "@disclaimer_cd": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "disclaimer_td": "The minimum Time Deposit amount is {amount}",
+  "@disclaimer_td": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "empty_string": "",
+  "select_leaves_number_to_proceed": "Select the Leaves number to proceed",
+  "show_session_overlay": "Show session overlay",
+  "token_expires_at": "Token Expires At: {time}",
+  "expires_in": "Expires In: ${time} seconds",
+  "eligible_for_refresh": "Eligible for Refresh: {value}",
+  "refreshing": "Refreshing: {value}",
+  "no": "No",
+  "idle": "Idle",
+  "authenticate_to_complete_setup": "Authenticate to complete setup",
+  "authenticate_to_login": "Authenticate to login",
+  "biometric_disabled_for_device_title": "Biometric authentication disabled",
+  "biometric_disabled_for_device_message": "We have removed biometric login for this device because we noticed a login from another device.",
+  "x_leaves": "{number} Leaves",
+  "@x_leaves": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "no_more_transfer_to_display": "No more transfers to display",
+  "life_board": "Lifeboard",
+  "please_try_again_later": "Please try again later",
+  "otp_code_sent_to_your_number_new": "OTP code sent to your registered mobile number.",
+  "life_board_onboarding_sub_text": "Easily view all your upcoming events in one smart board. Never miss a moment, deadline, or opportunity",
+  "discover": "Discover",
+  "add_new_event_title": "Add New Event",
+  "event_details_title": "Event Details",
+  "event_details_subtitle": "Please enter the event name and select the date to create your new event.",
+  "event_name_hint": "Event name",
+  "event_type_hint": "Event type",
+  "select_type_hint": "Select Event Type",
+  "event_date_hint": "Event date",
+  "event_note_hint": "Note (Optional)",
+  "event_added_title": "Event Added!",
+  "event_added_message": "Your event is added successfully",
+  "done_button": "Done",
+  "this_field_required": "This field is required",
+  "update_event_button": "Update Event",
+  "delete_event_button": "Delete Event",
+  "confirmDeletionTitle": "Confirm Deletion",
+  "confirmDeletionSubtitle": "Are you sure you want to delete this event?",
+  "total_earning": "Total Earning",
+  "total_dues": "Total Dues",
+  "monthly_overview": "Month Overview",
+  "never_miss_thing": "Never miss a thing!",
+  "check_your_events": "Check your upcoming events now",
+  "click_to_discover": "Click to discover",
+  "you_have_events": "You have {count} events today",
+  "@you_have_events": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today_with_date": "Today, {date}",
+  "@today_with_date": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "select_year": "Select Year",
+  "could_not_load_events": "We couldn't reload your events",
+  "you_have_no_events": "You don't have any events for this month",
+  "month_year": "{month} {year}",
+  "@month_year": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "welcome_to_lifeboard": "Welcome to",
+  "add_new_scheduled_transfer": "Add New Scheduled Transfer",
+  "birthday": "Birthday",
+  "anniversary": "Anniversary",
+  "other": "Other",
+  "app_language": "App Language",
+  "locale_language": "English",
+  "english": "English",
+  "arabic": "العربية",
+  "total_available_balance": "Total Available Balance",
+  "deactivate_biometric_login": "Deactivate Biometric Login",
+  "deactivate_biometric_login_msg": "Are you sure you want to deactivate biometric login?",
+  "enable_biometric": "Enable Biometric",
+  "biometric_login_deactivated_successfully": "Biometric Login Deactivated Successfully",
+  "biometric_activated_successfully": "Biometric activated successfully",
+  "biometric_activation_failed": "Biometric activation failed",
+  "biometric_deactivation_failed": "Biometric deactivation failed",
+  "face_id_fingerprint": "Face ID/Fingerprint",
+  "january": "Jan",
+  "february": "Feb",
+  "march": "Mar",
+  "april": "Apr",
+  "may": "May",
+  "june": "Jun",
+  "july": "Jul",
+  "august": "Aug",
+  "september": "Sep",
+  "october": "Oct",
+  "november": "Nov",
+  "december": "Dec",
+  "receive_cd_interest": "Receive CD Interest",
+  "receive_td_interest": "Receive TD Interest",
+  "pay_loan_due": "Pay Loan Due",
+  "pay_credit_card_due": "Pay Credit Card Due",
+  "event_updated_successfully": "Event updated successfully",
+  "event_deleted_successfully": "Event deleted successfully",
+  "weeks_left": "/{number} Weeks",
+  "@weeks_left": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "maximum_limit_reached": "Maximum Limit Reached",
+  "maximum_limit_reached_message": "You can select up to {number} quick actions only. To add a new one, please deselect an existing item.",
+  "@maximum_limit_reached_message": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "minimum_limit_reached": "Minimum Limit Not Reached",
+  "minimum_limit_reached_message": "You need to select at least {number} quick actions to continue. Please choose more to proceed.",
+  "@minimum_limit_reached_message": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "you_have_events_today": "You have {number} events today",
+  "@you_have_events_today": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "soft_token_welcome_msg": "Welcome to token activation you will make it in few steps",
+  "soft_token_activation_step_one_title": "Get the Registration Code",
+  "soft_token_activation_step_one_sub_title": "Open the SCB Token app, follow the instructions and copy the registration code",
+  "soft_token_activation_step_two_title": "Paste the code",
+  "soft_token_activation_step_two_sub_title": "Return here to SCB mobile to paste the registration code",
+  "soft_token_activation_step_three_title": "Complete Activation",
+  "soft_token_activation_step_three_sub_title": "Click continue on the token app then back here to complete activation",
+  "view_demo": "View Demo",
+  "soft_token_support": "Need more support?",
+  "step_of": "Step {currentStep} of {totalSteps}",
+  "get_registration_code": "Enter Registration Code",
+  "get_your_registration_code": "Open the soft token app, copy the registration code and paste it here",
+  "soft_token_get_registration_code_msg": "Open the SCB Token app, copy the registration code, and return here to paste it.",
+  "complete_activation": "Complete Activation",
+  "complete_activation_msg": "Continue on your soft token app the following process",
+  "scb_token_app": "SCB Token app",
+  "open_app": "Open app",
+  "soft_token_app_tapped_confirmation": "Yes, I've tapped \"Continue\" in the SCB Token app",
+  "soft_token_app_tapped_confirmation_msg": "This confirms you've finished setup inside SCB Token app.",
+  "soft_token_activation_in_few_steps": "Token activation in few steps",
+  "ok_got_it": "Okay, got it",
+  "download_scb_soft_token_app": "Download Soft Token App",
+  "copy_following_code": "Copy the Following",
+  "download_and_install_now": "Download and Install now",
+  "copy_following_code_msg": "Please insert the activation code and serial number in the soft token app",
+  "download_scb_soft_token_app_msg": "Use the SCB Token app to activate your token.",
+  "soft_token_activation_confirmation_error_msg": "Please confirm token activation before continuing.",
+  "soft_token_closing_confirmation_msg": "Closing will discard your changes",
+  "go_to_scb_app": "Go to SCB token app",
+  "app_settings": "App Settings",
+  "user_settings": "User Settings",
+  "language_title": "Language",
+  "inactive": "Inactive",
+  "missing_information": "Missing Information",
+  "login_missing_information_msg": "Please enter both your username and password to log in.",
+  "user_name_missing": "Username is missing",
+  "user_name_missing_msg": "Please enter username to log in.",
+  "password_missing": "Password is missing",
+  "password_missing_msg": "Please enter password to log in.",
+  "appearance": "Appearance",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "activate_title": "Activate",
+  "shake_device_to": "Shake Device To",
+  "apply_for_current_account": "Apply for Current Account",
+  "apply_for_saving_account": "Apply for Saving Account",
+  "deduct_from": "Deduct From",
+  "interest": "Interest",
+  "current_account_opened_successfully": "Current Account Opened Successfully",
+  "saving_account_opened_successfully": "Saving Account Opened Successfully",
+  "opening_amount": "Opening Amount",
+  "opening_amount_cd": "Opening Amount",
+  "opening_amount_td": "Opening Amount",
+  "add_more_and_enjoy": "Add {amount} more and enjoy",
+  "@add_more_and_enjoy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "view_account": "View Account",
+  "less_than": "Less than",
+  "know_more": "Know More",
+  "and_above": "and above",
+  "for_": "For",
+  "interest_details": "Interest Details",
+  "chequebook_available_for_all_accounts": "Chequebook available for all accounts.",
+  "collateral_details": "Collateral Details",
+  "message_collateral_details": "Review the deposits and certificates \n used as collateral for your loan.",
+  "total_blocked_amount": "Total blocked amount",
+  "amount": "Amount",
+  "multiple": "Multiple",
+  "interest_and_amount_added_same_maturity_td": "Interest and amount will be added to the same account at maturity.",
+  "interest_and_amount_added_same_maturity_cd": "Interest and amount will be added to the same account at maturity.",
+  "select_duration": "Select Duration",
+  "select_frequency": "Select Frequency",
+  "paid_after_maturity": "Paid After Maturity",
+  "interest_amount": "Interest Amount",
+  "not_eligible_for": "Not eligible for {productType}",
+  "@not_eligible_for": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "not_eligible_for_description": "{productType} are currently not available for {currency} currency.",
+  "@not_eligible_for_description": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "benefits": "Benefits",
+  "cd_td_benefits_1": "Ability to issue certificates via mobile banking service.",
+  "cd_td_benefits_2": "Interest calculated from the next working day of issuance date.",
+  "cd_td_benefits_3": "Eligible to borrow up to 90% of its value.",
+  "cd_td_benefits_4": "Eligible to get Suez Canal Bank's credit cards with Certificate guarantee.",
+  "deducted_account": "Deducted account",
+  "cancel_product": "Cancel {productType}",
+  "@cancel_product": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "certificate_opened_successfully": "Certificate Opened Successfully",
+  "time_deposit_opened_successfully": "Time Deposit Opened Successfully",
+  "certificate_number": "Certificate Number",
+  "certificate_amount": "Certificate Amount",
+  "certificate_details": "Certificate Details",
+  "time_deposit_details": "Time Deposit Details",
+  "received_interests": "Received {received} of {total} interests.",
+  "@received_interests": {
+    "placeholders": {
+      "received": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "deposit_number": "Time Deposit Number",
+  "deposit_amount": "Time Deposit Amount",
+  "view_time_deposit": "View Time Deposit",
+  "view_certificate": "View Certificate",
+  "apply_for_certificate": "Apply for Certificate",
+  "apply_for_time_deposit": "Apply for Time Deposits",
+  "explore_our_variety_of_products": "Explore Our Variety of Products",
+  "save_money_daily": "Save money daily",
+  "everyday_transactions": "Everyday transactions",
+  "long_term_saving": "Long term saving",
+  "time_limited_saving": "Time limited saving",
+  "pay_others": "Pay others",
+  "select_account_to_proceed": "Select an account to proceed with the entered amount",
+  "my_products_description": "Access all your products in one place accounts, deposits, cards, and more.",
+  "view_my_products": "View My Products",
+  "all": "All",
+  "otp_support_message": "Didn’t get the code? Call us at {supportNumber} for support.",
+  "soft_support_message": "Don’t know how to get it? Call us at 19093 for support.",
+  "linked_to": "Linked to",
+  "number_of_pages": "Number of Pages",
+  "num_of_pages": "{page} pages",
+  "@num_of_pages": {
+    "placeholders": {
+      "page": {
+        "type": "int"
+      }
+    }
+  },
+  "num_of_pages_chequebook": "{page} pages Chequebook",
+  "@num_of_pages_chequebook": {
+    "placeholders": {
+      "page": {
+        "type": "int"
+      }
+    }
+  },
+  "chequebook_fees": "Chequebook fees",
+  "this_is_your_home_branch": "This is your home branch address",
+  "change": "Change",
+  "select_branch": "Select Branch",
+  "your_cheque_request_received": "Chequebook Ordered Successfully",
+  "pickup_from": "Pickup from",
+  "chequebook_number": "Chequebook Number",
+  "fees_value": "Fee: {fees}",
+  "@fees_value": {
+    "placeholders": {
+      "fees": {
+        "type": "String"
+      }
+    }
+  },
+  "total_accounts_balance": "Total accounts balance",
+  "shake_device_to_quick_access": "Shake device to Quick Access",
+  "shake_message_description": "Shake your phone anytime to open shortcuts instantly, anywhere in the app.",
+  "select_preferred_action": "Select Preferred Action",
+  "choose_transfer_type": "Choose Transfer Type",
+  "own_transfer": "Own Transfer",
+  "normal_local_transfer": "Normal Local Transfer",
+  "explore_new_products": "Explore New Products",
+  "we_could_not_load_your_list": "We couldn't reload your list",
+  "you_do_not_have_certificates": "You don't have any certificates yet",
+  "you_do_not_have_time_deposits": "You don't have any time deposits yet",
+  "once_apply_appear_here": "Once you apply for new, it will appear here.",
+  "no_certificate": "No certificate",
+  "no_time_deposit": "No time deposit",
+  "no_certificate_available_for_currency": "No certificate available for this currency",
+  "no_time_deposit_available_for_currency": "No time deposits available for this currency",
+  "see_all_currency_certificates": "See certificate in all currencies",
+  "see_all_currency_time_deposits": "See deposits in all currencies",
+  "total_certificate_balance": "Total certificate balance",
+  "total_time_deposit_balance": "Total time deposit balance",
+  "total_balance_overview": "Total Balance Overview",
+  "total_balance_overview_description": "Your total balance shows all your funds across currencies and product types. Equivalent values depend on the latest available exchange rates at the last update.",
+  "view_exchange_rate": "View Exchange Rate",
+  "you_do_not_have_products": "You don't have any {productType} yet",
+  "@you_do_not_have_products": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "see_all_currency_products": "See {productType} in all currencies",
+  "@see_all_currency_products": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "no_product_available_for_currency": "No {productType} available for this currency",
+  "@no_product_available_for_currency": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "select_account_type": "Select Account Type",
+  "saving_account_only": "Saving Account",
+  "current_account_only": "Current Account",
+  "apply_for_new_my_products": "Apply for new",
+  "shake_to_go": "Shake to go!",
+  "shake_description": "Just shake your device anytime to instantly access key actions—anywhere in the app. It’s fast, easy, and always ready. You can manage it in Settings.",
+  "lets_do_it": "Let’s do it",
+  "up_to_": "Up to",
+  "time_deposits_": "Time Deposits",
+  "cheque_books": "Chequebooks",
+  "you_do_not_have_loans": "You don't have any loans yet",
+  "total_loans_balance": "Total loans balance",
+  "loan_no_placeholder": "Loan No. {accountId}",
+  "@loan_no_placeholder": {
+    "placeholders": {
+      "accountId": {
+        "type": "String"
+      }
+    }
+  },
+  "you_do_not_have_chequebooks": "You don't have any chequebooks yet",
+  "once_you_request_chequebook": "Once you request a new one, it will appear here.",
+  "remaining_leaves": "{remaining} Remaining",
+  "@remaining_leaves": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "linked_to_account": "{accountType} - {accountId}",
+  "@linked_to_account": {
+    "placeholders": {
+      "accountType": {
+        "type": "String"
+      },
+      "accountId": {
+        "type": "String"
+      }
+    }
+  },
+  "request_new": "Request new",
+  "remaining_cheque": "Remaining",
+  "chequebook_summary_fees": "Fees",
+  "you_do_not_have_cards": "You don't have any cards yet",
+  "once_you_request_card": "Once you request a new one, it will appear here.",
+  "until": "Until: {date}",
+  "apply_for_time_deposits": "Apply for new",
+  "once_apply_loan_appear": "Once you apply it, it will appear here.",
+  "loan_paid": "Paid",
+  "loan_details_action": "Details",
+  "dont_show_again_shake": "Don’t Show Again!",
+  "no_cards": "No cards",
+  "no_cards_currency": "No cards available for this currency",
+  "see_cards_currency": "See cards in all currencies",
+  "pending_transactions": "Pending Transactions",
+  "actual_balance": "Actual Balance",
+  "make_transfers": "Make Transfers",
+  "set_default": "Set Default",
+  "view_statements": "View Statements",
+  "account_number_hint": "You can find your account number on bank statements.\n If you need help, call us at {number}.",
+  "account_number_register_invalid": "Account number is invalid",
+  "national_id_invalid": "National ID / Passport number is invalid",
+  "cif_number_invalid": "CIF number is invalid",
+  "invalid_error_message": "Some of the entered data is invalid,\nplease re-check and try again. For \nassistance, contact us at ({number}).",
+  "terms_not_accepted": "Terms not accepted",
+  "registration": "Registration",
+  "set_default_button": "Set Default",
+  "default_account": "Default Account",
+  "un_set_default_confirmation_message": "Are you sure you want to unset this account as default account?",
+  "set_default_confirmation_message": "Are you sure you want to make this your default account?",
+  "un_set_default": "Unset Default",
+  "account_unset_successfully": "Account Unset Successfully",
+  "account_set_successfully": "Account Set Successfully",
+  "account_set_successfully_message": "You can use this account as your default account.",
+  "can_t_set_as_default": "Can’t Set as Default",
+  "can_t_set_as_default_message": "You can’t set this account as a default because it’s in a different currency, please choose an EGP account to set as a default.",
+  "default_": "Default",
+  "new_user_register": "New user? Register",
+  "i_agree_button": "I Agree",
+  "cancellation": "Cancel",
+  "terms_and_conditions_agreement_registration": "I have read and agreed to ",
+  "papers": "Papers",
+  "total_pages": "Total Pages",
+  "linked_account": "Linked Account",
+  "amount_received": "Amount Received",
+  "amount_deducted": "Amount Deducted",
+  "ref_id": "Ref ID:",
+  "transaction_details": "Transaction Details",
+  "transaction_receipt_powered_by": "Powered by Suez Canal Bank",
+  "credited_amount_title": "Credited amount",
+  "action_after_maturity": "Action After Maturity",
+  "maturity_renew": "Renew",
+  "maturity_not_renew": "Do Not Renew",
+  "maturity_change": "Change",
+  "save": "Save",
+  "td_type": "TD",
+  "cd_type": "CD",
+  "upcoming_installment": "Upcoming Installment",
+  "installment_date": "Installment Date",
+  "upcoming_interest": "Upcoming Interest",
+  "certificate_start_date": "Start Date",
+  "td_start_date": "Start Date",
+  "td_end_date": "End Date",
+  "certificate_end_date": "End Date",
+  "do_not_renew": "Do Not Renew",
+  "renew_description": "Certificate will be redeemed at maturity",
+  "time_deposit_amount": "Time Deposit Amount",
+  "pay_next": "Pay Next",
+  "card_due": "Card due",
+  "utilised_limit": "Utilized limit",
+  "card_total_limit": "Card total limit:",
+  "card_holder_name": "Cardholder name",
+  "expiry_date": "Expiry date",
+  "clearing_status": "Clearing Status",
+  "cheque_number": "Cheque Number",
+  "issuer_bank": "Issuer Bank",
+  "share_transaction": "Share transaction",
+  "deposit_number_title": "Deposit Number",
+  "paid_out_of_installments": "Paid {paidInstallments} of {totalInstallments} installments",
+  "@paid_out_of_installments": {
+    "placeholders": {
+      "paidInstallments": {
+        "type": "int"
+      },
+      "totalInstallments": {
+        "type": "int"
+      }
+    }
+  },
+  "loan_amount": "Loan amount",
+  "autoPay": "Autopay",
+  "automatically_pay_installments_on_time": "Automatically pay the installments on time.",
+  "loan_installments": "Loan Installments",
+  "review_upcoming_and_past_installments": "Review your upcoming and past installments",
+  "next_installment": "Next Installment",
+  "loan_number": "Loan Number",
+  "loan_months_left": "{months} Months",
+  "@loan_months_left": {
+    "placeholders": {
+      "months": {
+        "type": "int"
+      }
+    }
+  },
+  "total_overdue": "Total Overdue",
+  "due_interest": "Due Interest",
+  "penalties": "Penalties",
+  "installments_num": "{num} Installments (Principal)",
+  "pay_now": "Pay Now",
+  "maturity_update_success_title": "Maturity Action Update",
+  "maturity_update_success_subtitle": "Your maturity action has been updated successfully. Please note that The update may take some time to appear, so please check again later to confirm.",
+  "maturity_update_fail_title": "Update Failed",
+  "maturity_update_fail_subtitle": "We couldn’t update your maturity action at \n the moment.",
+  "you_need_to_pay_overdue_amt": "You need to pay the overdue amount first, and then you can pay the next installment.",
+  "maturity_update_success": "You have successfully updated your maturity instructions.",
+  "maturity_update_fail": "We couldn’t update your maturity instructions.",
+  "description": "Description",
+  "set_default_button_title": "Set Default",
+  "un_set_default_button_title": "Unset Default",
+  "atm_location": "ATM Location",
+  "atm_id": "ATM ID",
+  "merchant_name": "Merchant Name",
+  "branch_name": "Branch Name",
+  "depositor_name": "Depositor’s Name",
+  "reference_id": "Reference ID",
+  "withdrawals_name": "Withdrawal’s Name",
+  "action_after_maturity_td_sub_title": "You can change that until 2 days from the maturity date.",
+  "action_after_maturity_td_opening_message": "You can change that after opening.",
+  "action_after_maturity_cd_sub_title": "You can change this option once per day, until 2 days \n before the maturity date.",
+  "action_after_maturity_cd_opening_message": "You can update this after opening your certificate.",
+  "unpaid": "Unpaid",
+  "upcoming_loan_installments": "Upcoming",
+  "loan_detail_paid": "Paid",
+  "loan_remaining": "Remaining",
+  "loan_due_date": "Due Date:",
+  "could_not_verify_soft_token_status_message": "We couldn’t verify your soft token status. Please try again in a moment.",
+  "retry": "Retry",
+  "something_went_wrong_dialog": "Something went wrong",
+  "maturity_action_update_note": "Please note that the update may take some \ntime to appear, so please check again later to \nconfirm.",
+  "soft_token_already_active": "Your Soft Token is Already Active",
+  "facing_issues_help": "Facing issues? Just De-activate your token anytime.",
+  "deactivation_completed": "Deactivation Completed",
+  "deactivation_desc": "Your token is successfully deactivated. you can activate it again anytime.",
+  "keep_in_mind": "Keep in Mind",
+  "you_can_activate_soft_token_again": "You can activate your soft token again anytime from the More menu.",
+  "soft_token_status": "Soft Token Status",
+  "soft_token_status_desc": "Soft Token status is not available at the moment, please try again in a few minutes.",
+  "unavailable": "Unavailable",
+  "deactivation_failed_desc": "We couldn’t complete your request.\nPlease try again later.",
+  "something_went_wrong_operation": "Something went wrong!",
+  "cancel_deactivation_dialog": "Cancel",
+  "download_e_statement": "Download E-Statement",
+  "monthly_statements": "Monthly Statements",
+  "select_statement_year": "Select Statement Year",
+  "current_year": "(Current year)",
+  "no_statements_found": "No statements available",
+  "no_statements_found_subtitle": "You don’t have any e-statement subscriptions\nfor this year.",
+  "choose_year_to_see_statements": "Choose a year to see available statements.",
+  "could_not_load_statements": "We couldn’t load your E-Statement",
+  "year": "Year",
+  "transferred_successfully": "Transferred Successfully",
+  "done_operation": "Done",
+  "maturity_update_success_title_note": "Maturity Action Update",
+  "claim_offer": "Claim offer",
+  "your_promo_code": "Your promo code",
+  "copy_code": "Copy code",
+  "eligible_cards": "Eligible cards",
+  "fashion": "Fashion",
+  "automotive": "Automotive",
+  "electronics": "Electronics",
+  "furniture": "Furniture",
+  "gifts": "Gifts",
+  "health_care": "Health Care",
+  "installments": "Installments",
+  "online_applications": "Online applications",
+  "restaurants": "Restaurants",
+  "stationary": "Stationary",
+  "travel": "Travel",
+  "empty_offers": "No offers yet",
+  "empty_offers_content": "Offers will appear here once available."
+}

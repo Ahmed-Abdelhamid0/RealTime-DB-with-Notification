@@ -1,0 +1,1435 @@
+{
+  "app_name": "بنك قناة السويس",
+  "sorry": "عذرا!ً",
+  "check_internet_connection": "يرجى التحقق من إعدادات الشبكة",
+  "no_internet": "لا يوجد اتصال بالإنترنت",
+  "language": "English",
+  "user_name": "اسم المستخدم",
+  "welcome_to": "مرحبا بك!",
+  "password": "كلمة المرور",
+  "help_soft_token": "مساعدة",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "forgot_password_title": "نسيت كلمة المرور",
+  "log_in": "تسجيل الدخول",
+  "user_name_required": "اسم المستخدم مطلوب",
+  "user_name_must_be": "يجب أن يتكون اسم المستخدم من 8 إلى 20 حرفًا.",
+  "password_required": "كلمة المرور مطلوبة",
+  "account_locked": "الحساب مقفل",
+  "account_locked_content": "لقد تجاوزت الحد الأقصى لمحاولات تسجيل الدخول. لأمان حسابك، تم قفله. يرجى إعادة تعيين كلمة المرور",
+  "unlock_account": "إعادة فتح الحساب",
+  "reset_password": "إعادة تعيين كلمة المرور",
+  "cancel": "تراجع",
+  "password_expired": "انتهت صلاحية كلمة المرور",
+  "password_expired_content": "انتهت صلاحية كلمة المرور الخاصة بك. يرجى إعادة تعيينها للاستمرار في الوصول إلى حسابك",
+  "update_password": "تحديث كلمة المرور",
+  "already_logged_in": "مسجل الدخول بالفعل",
+  "already_logged_in_content": "أنت مسجل الدخول حاليًا على جهاز آخر. للمتابعة هنا، سنقوم بتسجيل خروجك من الجهاز الآخر",
+  "continue_button": "متابعة",
+  "invalid_username": "اسم المستخدم أو كلمة المرور غير صحيحة",
+  "invalid_username_content": "يرجى التحقق من تفاصيل تسجيل الدخول والمحاولة مرة أخرى.",
+  "inactive_user": "المستخدم غير نشط",
+  "inactive_user_content": "هذا المستخدم المسجل من قبل لم يكن نشطاً لفترة من الوقت.",
+  "activate": "مُفعل",
+  "error": "خطأ",
+  "page_not_found": "الصفحة غير موجودة",
+  "login_failed": "فشل تسجيل الدخول",
+  "invalid_code": "رمز التحقق غير صحيح، يرجى النقر على إعادة إرسال الرمز",
+  "attempts_left": "تبقى {count} محاولات",
+  "max_attempts_exceeded": "لقد تجاوزت الحد الأقصى لعدد محاولات رمز التحقق غير الصالحة",
+  "resend_code": "إعادة إرسال الرمز",
+  "resend_code_timer": "{seconds} ثانية",
+  "help": "المساعدة",
+  "verification": "التحقق",
+  "otp_sent_message": "تم إرسال رمز التحقق إلى رقم هاتفك المسجل.",
+  "new_password": "كلمة المرور",
+  "confirm_new_password": "تأكيد كلمة المرور",
+  "register_new_user_header": "إختر اسم مستخدم وكلمة مرور. احفظهما بشكل سري، ستحتاج إليهما لتسجيل الدخول لاحقًا.",
+  "validation_length_characters": "8 إلى 64 حرفًا",
+  "validation_number": "على الأقل رقم واحد",
+  "validation_upper_lower": "يجب أن تحتوي على حرف كبير وحرف صغير على الأقل",
+  "validation_special_character": "على الأقل رمز خاص واحد",
+  "password_should_contains": "يجب أن تحتوي كلمة المرور على ما يلي:",
+  "strong": "قوي",
+  "weak": "ضعيف",
+  "medium": "متوسط",
+  "confirm_password_required": "تأكيد كلمة المرور مطلوب",
+  "confirm_password_match_password": "تأكيد كلمة المرور لا تطابق كلمة المرور",
+  "password_not_valid": "كلمة المرور غير صالحة",
+  "password_not_valid_register": "يجب أن تكون كلمة المرور قوية وغير سهلة التخمين",
+  "banking_made_easy": "معاملاتك البنكية أبسط وأسرع – ابدأ \nالآن!",
+  "select_registration_method": "اختر طريقة التسجيل للبدء.",
+  "cif_number": "الرقم التعريفي CIF",
+  "account_number": "رقم الحساب",
+  "account_number_iban": "رقم الحساب/الآيبان",
+  "card_number": "رقم بطاقة الخصم المباشر",
+  "enter_cif_info": "أدخل هذه المعلومات للتحقق من حسابك.",
+  "cif_number_hint": "يمكنك العثور على رقم ملف معلومات العميل (CIF) في \nكشوفات البنك الخاصة بك أو من خلال التواصل مع خدمة\n العملاء على الرقم {number}.",
+  "national_id_number": "الرقم القومي / رقم جواز السفر",
+  "cif_number_required": "الرقم التعريفيCIF مطلوب",
+  "card_number_required": "رقم البطاقة مطلوب",
+  "account_number_required": "رقم الحساب مطلوب",
+  "national_id_required": "رقم بطاقة الرقم القومي/ رقم جواز السفر مطلوب",
+  "contact_bank": "التواصل مع البنك",
+  "register_new_user": "تسجيل مستخدم جديد",
+  "terms_and_conditions": "الشروط والأحكام",
+  "terms_and_conditions_description": "يرجى قراءة وقبول الشروط والأحكام لمتابعة التسجيل.",
+  "i_have_read_and_agree": "لقد قرأت وأوافق على الشروط و الأحكام",
+  "terms_and_conditions_agreement": "لقد قرأت وأوافق على ",
+  "failed_to_load_terms": "فشل في تحميل الشروط",
+  "new_user": "مستخدم جديد؟",
+  "register": "تسجيل",
+  "terms_agreement_required": "يجب عليك الموافقة على الشروط والأحكام للاستمرار",
+  "ok": "تم",
+  "okay": "حسنا",
+  "update_now": "تحديث الآن",
+  "update": "تحديث",
+  "later": "لاحقاً",
+  "retry_otp_layer": "لقد قمت مؤخرًا بإعادة إرسال رمز OTP، يرجى المحاولة مرة أخرى بعد 88 ثانية",
+  "attention": "تنبيه!",
+  "undergoing_maintenance": "نحن حاليًا نقوم بأعمال الصيانة.",
+  "our_service_will_be_back_up": "ستعود خدمتنا للعمل قريبًا!",
+  "loading": "جاري التحميل...",
+  "confirm_exit": "تأكيد الخروج",
+  "exit_message": "هل تريد حقًا الخروج من التطبيق؟",
+  "exit": "خروج",
+  "done": "تم",
+  "success_register_message_title": "تم التسجيل بنجاح!",
+  "success_activation_message_title": "تم التسجيل بنجاح!",
+  "success_register_message_body": "تم إعداد حسابك. يمكنك الوصول إلى خدماتك المصرفية بأمان في أي وقت.",
+  "card_pin_hint": "هو الرقم المكون من 4 أرقام الذي يتم إدخاله عبر ماكينة \n الصراف الآلي",
+  "card_pin": "الرقم السري للبطاقة",
+  "card_pin_required": "الرقم السري للبطاقة مطلوب",
+  "home": "الرئيسية",
+  "transfer": "تحويل",
+  "cards": "البطاقات",
+  "menu": "القائمة",
+  "logout": "تسجيل الخروج",
+  "please_sign_in_first": "يرجى تسجيل الدخول أولاً للاستخدام",
+  "username": "اسم المستخدم",
+  "hi": "اهلاً،",
+  "transfers": "التحويلات",
+  "pay_bills": "دفع الفواتير",
+  "converter": "المحول",
+  "add_new": "إضافة جديد",
+  "current_account": "الحساب الجاري",
+  "current_accounts": "الحسابات الجارية",
+  "total_amount": "إجمالي المبلغ",
+  "accounts": "الحسابات",
+  "egp": "جنيه مصري",
+  "egp_en": "EGP",
+  "cd_and_td": "شهادات و ودائع",
+  "cer_of_deposit": "شهادة الإيداع",
+  "time_of_deposit": "الوديعة الزمنية",
+  "weekend_saver": "مدخر نهاية الأسبوع",
+  "name": "اسم",
+  "loans_overdraft": "القروض و الجاري مدين",
+  "next_due_date": "تاريخ الاستحقاق:",
+  "available_limit": "الرصيد المتاح",
+  "available_balance": "الرصيد المتاح",
+  "debit_card_number": "رقم بطاقة الخصم المباشر",
+  "credit_card": "بطاقة الائتمان",
+  "gold": "ذهبي",
+  "platinum": "بلاتيني",
+  "view_all": "عرض الكل",
+  "loan_name": "اسم القرض",
+  "next_due_amount": "قيمة المستحق التالي:",
+  "apply_for_new": "التقديم علي جديد",
+  "certificate_name": "اسم الشهادة",
+  "open_new_account": "فتح حساب جديد",
+  "next_interest_amount": "مبلغ الربح التالي:",
+  "next_interest_date": "تاريخ الربح التالي:",
+  "interest_date": "تاريخ الفائدة",
+  "total_balance": "إجمالي الرصيد",
+  "transaction": "العمليات",
+  "successful": "ناجح",
+  "hot_deal": "عرض جديد",
+  "buy_one_desc": "اشترِ واحدًا واحصل على الثاني بخصم 50%",
+  "days": "أيام",
+  "offers": "العروض",
+  "all_offers": "كل العروض",
+  "no_recent_transactions": "لا يوجد تحويلات حديثة",
+  "could_not_load_transactions": "لم نتمكن من تحميل التحويلات",
+  "reload": "إعادة تحميل",
+  "quick_actions": "إجراءات سريعة",
+  "quick_actions_sub_title": "قم بتخصيص إجراءاتك السريعة عن طريق إزالة المزيد أو إضافتها",
+  "pay_credit": "سداد بطاقة الائتمان",
+  "donate": "تبرعات",
+  "exchange_rate": "سعر الصرف:",
+  "open_td": "طلب فتح  وديعة",
+  "open_cd": "طلب فتح سهادة",
+  "open_account": "طلب فتح حساب",
+  "request_chequebook": "طلب دفتر شيكات",
+  "locate_us": "موقعنا",
+  "support": "الدعم",
+  "something_went_wrong": "حدث خطأ ما!",
+  "we_could_not_load_terms_and_conditions": "لم نتمكن من تحميل الشروط والأحكام",
+  "search": "البحث",
+  "beneficiaries": "المستفيدون",
+  "soft_tokens": "رمز الأمان",
+  "more": "المزيد",
+  "management": "الإدارة",
+  "settings": "الإعدادات",
+  "activate_tokens": "تفعيل رمز الأمان",
+  "welcome_to_online_transfer": "مرحبًا بك في خدمة التحويل عبر الإنترنت، يمكنك الآن التحويل إلى أي بنك في مصر. يتطلب استخدام هذه الخدمة تنزيل الرمز الناعم عبر App Store أو Play Store",
+  "to_download_the_app": "لتحميل التطبيق",
+  "click_here": "اضغط هنا",
+  "please_insert_generated_code": "الرجاء إدخال رمز التسجيل الناتج من  SCB Token",
+  "generate_my_token": "طلب رمز الآمان",
+  "please_insert_activation": "الرجاء إدخال رمز التفعيل والرقم التسلسلي في تطبيق SCB Token على هاتفك المحمول",
+  "serial_number": "الرقم التسلسلي",
+  "your_activation_code_is": "رمز التفعيل الخاص بك",
+  "enter_register_code": "أدخل رمز التسجيل",
+  "register_code": "رمز التسجيل",
+  "success_register_tokens_content": "تم تفعيل رمز الأمان بنجاح. يمكنك إجراء المعاملة الآن",
+  "you_must_activate_soft_tokens": "يجب عليك تفعيل الرموز البرمجية أولاً لإضافة المستفيد",
+  "activate_soft_tokens": "تفعيل",
+  "soft_tokens_already_activated": "تم تفعيل الرموز البرمجية بالفعل",
+  "manage_beneficiaries": "إدارة المستفيدين",
+  "beneficiary_list": "قائمة المستفيدين",
+  "currently_dn_have_any_beneficiary": "حالياً ليس لديك أي مستفيد",
+  "one_day_remaining": "{days} يوم متبقي",
+  "days_remaining": "{days} ايام متبقية",
+  "days_v2_remaining": "{days} يوم متبقي",
+  "expires_today": "ينتهي اليوم",
+  "expired_days_ago": "انتهت منذ {days} أيام",
+  "no_recent_offer": "لا توجد عروض حديثة بعد",
+  "could_not_load_offers": "تعذّر تحميل قائمة العروض",
+  "could_not_load_accounts": "تعذّر تحميل قائمة الحسابات",
+  "add_new_section": "إضافة أقسام جديدة",
+  "edit_dashboard": "تعديل الصفحة الرئيسية",
+  "edit_dashboard_header": "هل تريد إعادة الترتيب؟",
+  "edit_dashboard_header_content": "فقط اضغط واسحب لإعادة ترتيب القسم أو أي بطاقة داخله، أو إخفائها من الصفحة الرئيسية!ً",
+  "hide_section": "إخفاء القسم",
+  "hide": "إخفاء",
+  "show_more_cards": "عرض المزيد من البطاقات",
+  "show_more_accounts": "عرض حسابات أخرى",
+  "show_more_loans": "عرض المزيد من القروض",
+  "show_more_deposits": "عرض المزيد من الودائع",
+  "show_more_offers": "عرض المزيد من العروض",
+  "show_more_transactions": "عرض المزيد من المعاملات",
+  "own_accounts": "حساباتي",
+  "within_scb": "داخل البنك",
+  "local": "محلي",
+  "new_transfer": "تحويل جديد",
+  "transfer_history": "ارشيف التحويل",
+  "transfer_disclaimer": "سيتم تنفيذ التحويلات المقدمة بعد الساعة 3:00 PM في يوم العمل التالي.",
+  "schedule_transactions": "جدولة التحويلات",
+  "top_pick_for_you": "أفضل الاختيارات لك",
+  "account": "حساب بنكى",
+  "wallet": "محفظة",
+  "mobile": "الهاتف المحمول",
+  "edit": "تعديل",
+  "view_more": "عرض المزيد",
+  "view_less": "عرض اقل",
+  "currently_you_dn_have_any_beneficiary": "حاليًا، ليس لديك أي مستفيدين",
+  "could_not_load_beneficiaries": "لم نتمكن من تحميل مستفيدين",
+  "edit_beneficiary": "تعديل المستفيد",
+  "save_updates": "تحديث",
+  "delete_beneficiary": "حذف المستفيد",
+  "beneficiary_nickname": "الإسم المستعار",
+  "bank_name": "اسم البنك",
+  "delete": "حذف",
+  "confirm_deletion": "تأكيد الحذف",
+  "confirm_deletion_msg": "هل أنت متأكد أنك تريد حذف هذا المستفيد من القائمة؟",
+  "beneficiary_deleted_msg": "تم حذف المستفيد بنجاح",
+  "beneficiary_updated_msg": "تم تحديث قائمة المستفيدين",
+  "dot": ".",
+  "confirm": "تأكيد",
+  "summary": "مراجعة التفاصيل",
+  "amount": "المبلغ",
+  "amount_required": "المبلغ الأدنى للتحويل هو 1",
+  "from_required": "اختر الحساب المرسل للمتابعة",
+  "to_required": "اختر الحساب المستلم للمتابعة",
+  "transfer_limits": "حدود التحويل",
+  "date": "التاريخ:",
+  "reference": "الرقم المرجعي:",
+  "schedule_transfer": "تحويل مجدول",
+  "from": "من",
+  "to": "إلى",
+  "select_account": "اختر الحساب",
+  "transfer_successful": "تم التحويل بنجاح! ",
+  "rate": "السعر",
+  "equal": "=",
+  "minus": "-",
+  "add_to_quick_transfer": " أضف إلى التحويل السر",
+  "add_to_quick_beneficiary": "إضافة إلى المستفيدون",
+  "activated": "تم التفعيل",
+  "not_activated": "غير مُفعل",
+  "not_registered": "غير مُسجّل",
+  "registration_code_invalid": "رقم التسجيل غير صحيح",
+  "nick_name": "الاسم المستعار",
+  "note_optional": "ملاحظات (اختيارى)",
+  "account_number_less_16": "رقم الحساب يجب أن يكون 16 رقماً",
+  "nick_name_required": "الاسم المستعار  مطلوب",
+  "note": "ملاحظات (اختيارى):",
+  "notes": "ملاحظات:",
+  "notes_": "ملاحظات",
+  "share": "مشاركة",
+  "send_money_to": "إرسال الأموال إلى",
+  "card": "بطاقة",
+  "token_activation": "تفعيل رمز الأمان",
+  "token_activation_msg": "رمز الامان يجب تفعيله أولاً للمتابعة",
+  "transfer_limit_exceeded": "تم تجاوز حد التحويل",
+  "update_available": "التحديث متاح",
+  "new_version_available": "يتوفر إصدار جديد. نوصي بالتحديث للحصول على أفضل تجربة.",
+  "update_upper_cased": "تحديث",
+  "update_required": "التحديث مطلوب",
+  "add": "إضافة",
+  "beneficiary_added_msg": "تم إضافة المستفيد بنجاح",
+  "no_beneficiaries_yet": "لا يوجد مستفدين حتى الآن",
+  "once_you_add_beneficiary_they_will_show": "بمجرد إضافة المستفيد، سيظهر هنا.",
+  "no_matches_found": "لا يوجد تطابقات",
+  "try_search_with_different_keyboard": "حاول البحث بأحرف محتلفة",
+  "search_": "بحث...",
+  "nick_name_characters_error_msg": "يجب أن يكون الاسم المستعار من 2 إلى 35 حرفًا",
+  "a_new_version_available": "نسخة جديدة من التطبيق متاحة الآن! يمكنك\n تحديث التطبيق للتمتع بالمزايا والتحسينات الجديدة.",
+  "app_no_longer_supported": " نسخة تطبيقك قديمة ولم تعد مدعومة، يرجى التحديث للاستمرار في استخدام التطبيق.",
+  "we_could_not_load_you_list": "لم نتمكن من تحميل القائمة",
+  "we_could_not_load_the_list": "لم نتمكن من تحميل القائمة",
+  "transfer_not_available": "التحويل غير متاح",
+  "transfer_between_own_accounts": "التحويل بين الحسابات الخاصة غير متاح حاليًا نظرًا لامتلاكك حساب واحد فقط",
+  "cancel_transfer": "إلغاء التحويل",
+  "cancel_transfer_content": "هل أنت متأكد أنك تريد إلغاء التحويل؟\nسيتم فقدان أي بيانات أدخلتها.",
+  "yes": "نعم",
+  "transfer_type": "نوع التحويل",
+  "transfer_type_": "نوع التحويل",
+  "credited_amount": "المبلغ المحول:",
+  "own": "شخصى",
+  "account_number_invalid": "رقم الحساب / الآيبان غير صحيح.",
+  "card_number_invalid": "رقم البطاقة غير صحيح",
+  "card_number_register_invalid": "رقم البطاقة غير صالح",
+  "card_pin_invalid": "الرقم السري للبطاقة غير صالح",
+  "could_not_load_transfer_history": "لم نتمكن من تحميل التحويلات السابقة",
+  "no_transfers": "لا التحويلات",
+  "own_account": "الحساب الخاص",
+  "recent_transfers": "التحويلات الأخيرة",
+  "transfers_history": "تاريخ التحويلات",
+  "normal": "عادي",
+  "ipn_instant": "تحويل لحظي",
+  "payment_address": "عنوان الدفع",
+  "account_iban": "حساب بنكى",
+  "local_transfer": "محلى",
+  "select_bank": "اختر البنك",
+  "beneficiary_name": "اسم المستفيد",
+  "beneficiary_name_": "اسم المستفيد",
+  "bank_name_required": "اسم البنك مطلوب",
+  "beneficiary_name_required": "اسم المستفيد مطلوب",
+  "transfer_details": "تفاصيل التحويل",
+  "repeat_transfer": "تكرار التحويل",
+  "scheduled": "مجدولة",
+  "account_or_name": "الاسم او المبلغ",
+  "select_date_range": "اختر مدة زمنية",
+  "apply": "تقديم",
+  "start_date": "تاريخ البداية",
+  "end_date": "تاريخ الانتهاء",
+  "request_a_card": "طلب بطاقة",
+  "available_balance_is_insufficient": "الرصيد المتاح غير كاف",
+  "due_amount": "المبلغ المستحق:",
+  "due_date": "تاريخ الاستحقاق:",
+  "card_details": "تفاصيل البطاقة",
+  "pay_card": "سداد البطاقة",
+  "today": "اليوم",
+  "last_week": "آخر أسبوع",
+  "last_month": "آخر شهر",
+  "last_3_months": "آخر 3 شهور",
+  "select_date": "اختر التاريخ",
+  "card_transactions": "معاملات البطاقة",
+  "card_limit": "حد البطاقة",
+  "no_transactions_yet": "لا يوجد معاملات",
+  "we_could_not_load_your_transactions": "لم نتمكن من تحميل معاملاتك",
+  "otp_code_sent_to_your_number": "برجاء إدخال رمز الأمان من تطبيق SCB Token.",
+  "amount_or_name": "الاسم او المبلغ",
+  "this_fields_accept_2_char": "هذا الحقل يقبل حرفين كحد أدنى",
+  "transfer_error": "لم نتمكن من إتمام عملية التحويل بسبب خطأ غير متوقع. يُرجى المحاولة مرة أخرى لاحقًا.",
+  "enable": "تفعيل",
+  "disable": "إلغاء التفعيل",
+  "account_details": "تفاصيل الحساب",
+  "open_new_deposit": "فتح شهادة/وديعة جديدة",
+  "interest_rate": "معدل الفائدة",
+  "pending_amount": "المبلغ المعلق",
+  "loan_details": "تفاصيل القروض",
+  "details": "التفاصيل",
+  "next_installment_amount": "قيمة القسط القادم",
+  "next_installment_date": "تاريخ القسط القادم",
+  "paid_installments": "الأقساط المدفوعة",
+  "remaining": "متبقى",
+  "installment_frequency": "تكرار الأقساط",
+  "fixed_rate": "معدل الفائدة",
+  "maturity_left": "المدة المتبقية",
+  "collateral_type": "نوع الضمانة",
+  "issued_date": "تاريخ الإصدار",
+  "na": "N/A",
+  "loan_payments": "مدفوعات القرض",
+  "loan_payment": "سداد القرض",
+  "upcoming": "القادم",
+  "paid": "تدفع",
+  "due": "متأخر",
+  "request_cheque_book": "طلب دفتر شيكات",
+  "services": "الخدمات",
+  "select_number": "اختر الرقم",
+  "page": "صفحة متبقية",
+  "fees": "الرسوم",
+  "select_account_required_msg": "يرجى اختيار الحساب",
+  "select_leaves_error_msg": "يرجى اختيار عدد أوراق الشيكات للمتابعة",
+  "need_agree_terms": "يجب أن توافق على الشروط والأحكام للاستمرار.",
+  "submitted_successfully": "تم التقديم بنجاح!",
+  "pages_cheques": "صفحة",
+  "more_details": "مزيد من التفاصيل",
+  "request_status": "حالة الطلب",
+  "current": "جارى",
+  "not_eligible_request_msg": "لا يحق لك طلب دفتر شيكات",
+  "deposit_details": "تفاصيل الشهادة",
+  "deposit_no": "رقم الوديعة: {number}",
+  "certificate_no": "رقم الشهادة: {number}",
+  "@deposit_no": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "months_left": "/{number} شهر",
+  "@months_left": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "redeemed_account": "الحساب المُستَرد",
+  "interest_account": "حساب الفائدة",
+  "payout_details": "تفاصيل الصرف",
+  "interest_frequency": "تكرار الفائدة",
+  "blocked_amount": "المبلغ المحجوز",
+  "percent_rate_with_type": "معدل {type} {rate}%",
+  "@percent_rate_with_type": {
+    "placeholders": {
+      "rate": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "loan_no": "رقم القرض",
+  "chequebook_details": "تفاصيل دفتر الشيكات",
+  "used": "مستخدم",
+  "used_cheques": "الشيكات المستخدمة",
+  "execution_blocked": "تم حظر التنفيذ",
+  "select_service": "اختر الخدمة",
+  "chequebook": "دفتر الشيكات",
+  "my_products": "منتجاتي",
+  "products": "المنتجات",
+  "empty_chequebooks_msg": "لا توجد دفاتر شيكات بعد",
+  "error_chequebooks_msg": "لم نتمكن من تحميل دفاتر الشيكات الخاصة بك",
+  "empty_used_cheques_msg": "لا توجد شيكات مستخدمة بعد",
+  "error_used_cheques_msg": "لم نتمكن من تحميل قائمة الشيكات الخاصة بك",
+  "loans": "القروض",
+  "we_could_not_load_your_loans": "لم نتمكن من تحميل القروض",
+  "we_could_not_load_your_payments": "لم نتمكن من تحميل المدفوعات",
+  "saving_accounts": "حسابات التوفير",
+  "saving_account": "حسابات جارية",
+  "current_affairs": "حسابات توفير",
+  "time_deposits": "الودائع",
+  "certificates": "الشهادات",
+  "history": "السابق",
+  "in_progress": "قيد التنفيذ",
+  "rejected": "مرفوض",
+  "delivered": "تم التسليم",
+  "request_date_and_time": "تاريخ الطلب",
+  "request_no": "رقم الطلب",
+  "empty_requests_msg": "لا توجد طلبات بعد",
+  "error_requests_msg": "لم نتمكن من تحميل الطلبات الخاصة بك",
+  "funding_details": "تفاصيل التمويل",
+  "deposit_account": "حساب الوديعة",
+  "amount_only": "المبلغ",
+  "minimum_certificate_amount_is": "الحد الأدنى لقيمة الشهادة هو {amount} ومن مضاعفاتها",
+  "@minimum_certificate_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "minimum_amount_is": " {currency} {amount} الحد الأدنى",
+  "@minimum_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "deposits": "شهادات",
+  "deposits_dashboard": "شهادات و ودائع",
+  "no_products_found": "لا توجد منتجات",
+  "up_to_interest_rate": "تصل إلى",
+  "cheques": "دفتر الشيكات",
+  "not_available": "غير متاح",
+  "available": "متاح",
+  "value_percent": "{value}%",
+  "@value_percent": {
+    "placeholders": {
+      "value": {
+        "type": "double"
+      }
+    }
+  },
+  "amount_": "المبلغ",
+  "minimum_opening_amount_is": " الحد الأدنى لمبلغ فتح الشهادة هو {amount} {currency}",
+  "@minimum_opening_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "minimum_opening_amount_td_is": " الحد الأدنى لمبلغ فتح الوديعة هو {amount} {currency}",
+  "minimum_opening_amount_cd_is": " الحد الأدنى لمبلغ فتح الشهادة هو {amount} {currency}",
+  "@minimum_opening_amount_td_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "@minimum_opening_amount_cd_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "minimum_with_amount_and_currency": "الحد الأدنى للمبلغ هو {amount} {currency}",
+  "@minimum_with_amount_and_currency": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "account_opened_successfully": "تم فتح الحساب بنجاح",
+  "terms_and_conditions_agreement_required": "يجب أن توافق على الشروط والأحكام للاستمرار.",
+  "duration": "المدة",
+  "frequency": "معدل الفائدة",
+  "added": "تم الإضافة",
+  "overdue_amount": "المبلغ المتأخر",
+  "multiple_of_minimum_amount_td": "يجب أن يكون مبلغ فتح  الوديعة {amount} {currency} ومضاعفاته",
+  "multiple_of_minimum_amount_cd": "يجب أن يكون مبلغ فتح الشهادة  {amount} {currency} ومضاعفاته",
+  "@multiple_of_minimum_amount_td": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "@multiple_of_minimum_amount_cd": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "no_accounts_found": "لم يتم العثور على حسابات",
+  "no_cards_found": "لم يتم العثور على بطاقات",
+  "no_deposit_accounts_found": "لم يتم العثور على حسابات الودائع",
+  "credit_card_payment": "سداد بطاقة الائتمان",
+  "deduct_amount_from": "خصم المبلغ من",
+  "payment_amount": "مبلغ السداد",
+  "full_due_amount": "إجمالي المبلغ المستحق:",
+  "min_due_amount": "الحد الأدنى للمبلغ المستحق:",
+  "other_amount": "مبلغ آخر",
+  "debited_amount": "المبلغ المٌحول",
+  "no_results_found": "لا يوجد نتائج",
+  "transactions_list": "قائمة المعاملات",
+  "transaction_limit_exceeded": "تم تجاوز حد التحويل",
+  "reference_": "الرقم المرجعي",
+  "date_": "التاريخ",
+  "transaction_date": "تاريخ المعاملة",
+  "transfer_to_charity": "تحويل إلى جمعية خيرية",
+  "select_charity": "اختر الجمعية الخيرية",
+  "charity": "جمعية خيرية",
+  "this_field_is_required": "هذا الحقل مطلوب",
+  "transaction_type": "نوع المعاملة",
+  "iban": "IBAN",
+  "wallet_number": "رقم المحفظة",
+  "mobile_number": "رقم الهاتف المحمول",
+  "mobile_no_is_invalid": "رقم الهاتف غير صحيح",
+  "wallet_no_is_valid": "رقم المحفظة غير صحيح",
+  "ipn_address": "عنوان الدفع",
+  "ipn_address_invalid": "عنوان الدفع الفورى غير صحيح",
+  "card_number_is_invalid": "رقم الهاتف غير صحيح",
+  "amount_must_be_greater_than_min_due_amount": "يجب أن يكون المبلغ أكبر من {minAmount}",
+  "@amount_must_be_greater_than_min_due_amount": {
+    "placeholders": {
+      "minAmount": {
+        "type": "String"
+      }
+    }
+  },
+  "savings": "توفير",
+  "change_password": "تغيير كلمة المرور",
+  "change_pass_page_msg": "يرجى إدخال كلمة مرور قوية وفريدة، واحتفظ بها لاستخدامها لاحقًا عند تسجيل الدخول.",
+  "debited_account": "حساب الخصم",
+  "min_amount": "الحد الادنى",
+  "no_min_amount": "بدون حد أدنى",
+  "disclaimer_minimum_amount_is_and_its_multiples": "الحد الأدنى لقيمة {type} هو {amount} ومن مضاعفاتها",
+  "@disclaimer_minimum_amount_is_and_its_multiples": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "deposit": "وديعة",
+  "current_password": "كلمة المرور الحالية",
+  "current_password_invalid": "كلمة المرور الحالية غير صحيحة.",
+  "successful_change": "تم التغيير بنجاح!",
+  "password_changed_successfully": "تم تغيير كلمة المرور بنجاح.",
+  "login": "تسجيل الدخول",
+  "contactUs": "تواصل معنا",
+  "email": "البريد الإلكترونى",
+  "website": "الموقع الإلكترونى",
+  "call_center": "مركز الاتصال",
+  "follow_us": "تابعنا",
+  "online_support": "الدعم عبر الإنترنت",
+  "exchange_rate_": "سعر الصرف",
+  "last_update": "آخر تحديث: {time}",
+  "@last_update": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "currency_converter": "تحويل عملة",
+  "egp_exchange_rate": "السعر في الوقت الحالى",
+  "buy": "شراء",
+  "sell": "بيع",
+  "selected_currency": "اختر العملة",
+  "hide_balance_prompt_title_hidden": "تم الآن إخفاء الأرصدة",
+  "hide_balance_prompt_title_visible": "أصبحت الأرصدة مرئية الآن",
+  "hide_balance_prompt_subtitle": "اقلب الشاشة لأسفل لإخفاء أو عرض الرصيد، أو اضغط على رمز العين أعلى الرصيد.",
+  "got_it": "حسنًا",
+  "dont_show_again": "لا تعرض هذا مرة أخرى",
+  "hide_balance_by_default": "إخفاء الرصيد بشكل افتراضى",
+  "amount_is_required": "ادخل المبلغ",
+  "interest_account_is_required": "يجب تحديد حساب الفائدة",
+  "opened_successfully": "تم بنجاح",
+  "cd_no": "رقم الشهادة. {number}",
+  "@cd_no": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "td_no": "رقم الوديعة. {number}",
+  "@td_no": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "certificate": "الشهادة",
+  "out_side_egypt": "خارج مصر",
+  "debited_account_is_required": "يجب تحديد حساب الخصم أولا",
+  "out_side_egypt_number": "19093 (202+)",
+  "maximum_amount_is": "الحد الأقصى. {amount} {currency}",
+  "@maximum_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "min_amount_is": "دقيقة. {amount} {currency}",
+  "@min_amount_is": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "login_to_manage": "سجّل الدخول لإدارة أموالك",
+  "new_password_field": "كلمة المرور الجديدة",
+  "confirm_new_password_field": "تأكيد كلمة المرور الجديدة",
+  "password_dn_match": "كلمات المرور غير متطابقة.",
+  "current_pass_required": "كلمة المرور مطلوبة",
+  "we_could_not_load_your_cards": "لم نتمكن من تحميل بطاقاتك",
+  "we_could_not_load_your_accounts": "لم نتمكن من تحميل حساباتك",
+  "we_could_not_load_your_cd": "لم نتمكن من تحميل الشهادات",
+  "we_could_not_load_your_td": "لم نتمكن من تحميل الودائع",
+  "maichel": "مايكل",
+  "we_could_not_load_offers": "لم نتمكن من تحميل العروض",
+  "edit_actions": "تعديل الإجراءات",
+  "another_account": "حساب آخر",
+  "are_you_sure_you_want_to_exit": "هل أنت متأكد أنك تريد الخروج؟",
+  "are_you_sure_you_want_to_exit_info": "سيؤدي الإغلاق إلى تجاهل التغييرات التي أجريتها",
+  "request_date": "تاريخ الطلب",
+  "overdue_days": "أيام التأخير",
+  "frequently_transferred_to": "التحويلات المتكررة",
+  "select_favorite_beneficiary": "Select Favorite Beneficiary",
+  "one_time": "مرة واحدة",
+  "recurring": "متكرر",
+  "select_start_date": "اختر التاريخ",
+  "number_of_occurrences": "عدد المرات",
+  "daily": "يومى",
+  "weekly": "أسبوعى",
+  "monthly": "شهرى",
+  "execution_date": "تاريخ التنفيذ",
+  "occurrences": "عدد التحويلات",
+  "times": "{times} مرات",
+  "@times": {
+    "placeholders": {
+      "times": {
+        "type": "String"
+      }
+    }
+  },
+  "date_of_submission": "تاريخ الإنشاء",
+  "date_of_execution": "تاريخ التنفيذ",
+  "maximum_number_of_recurring_is": "الحد الأقصى لعدد مرات  {max}التكرار هو ",
+  "@maximum_number_of_recurring_is": {
+    "placeholders": {
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "account_type": "{accountType} حساب",
+  "@account_type": {
+    "placeholders": {
+      "accountType": {
+        "type": "String"
+      }
+    }
+  },
+  "no_beneficiaries_added ": "لا يوجد مستفيدون مضافون",
+  "you_can_add_a_beneficiary_after_making_a_transfer_for_quicker_access_next_time": "يمكنك إضافة مستفيد بعد إجراء تحويل لتسهيل الوصول في المرات القادمة.",
+  "atm": "ماكينة الصراف الآلي",
+  "branches": "الفروع",
+  "list_view": "عرض القائمة",
+  "selected": "محدد",
+  "direction": "الاتجاه",
+  "branches_list": "قائمة الفروع",
+  "atm_list": "قائمة أجهزة الصراف الآلي",
+  "open_till": "مفتوح {time}",
+  "@open_till": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "kilometers_away": "على بعد {distance} كم",
+  "@kilometers_away": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "transfer_amount": "قيمة التحويل {optional}:",
+  "@transfer_amount": {
+    "placeholders": {
+      "optional": {
+        "type": "String?"
+      }
+    }
+  },
+  "transfer_date": "تاريخ التحويل {optional}:",
+  "@transfer_date": {
+    "placeholders": {
+      "optional": {
+        "type": "String?"
+      }
+    }
+  },
+  "next": "القادم",
+  "new_text": "جديد",
+  "cancel_schedule_transfer": "إلغاء الجدولة",
+  "schedule_details": "تفاصيل التحويل المجدول",
+  "schedule_transfer_empty_message": "لا توجد أي تحويلات مجدولة لعرضها.",
+  "schedule_cancellation_dialog_title": "إلغاء الجدولة",
+  "schedule_cancellation_dialog_content": "بإلغاء هذا التحويل المجدول،جميع التحويلات القادمة لن يتم تنفيذها",
+  "cancel_schedule": "إلغاء الجدولة",
+  "interest_rate_is_required": "يجب تحديد سعر الفائدة",
+  "select_currency": "اختر العملة",
+  "forget_pass_page_msg": "لإعادة تعيين كلمة المرور، يرجى التحقق من بياناتك.\nسنرسل رمزًا إلى رقم هاتفك المحمول المُسجل.",
+  "scb_card_num": "رقم البطاقة البنكية",
+  "card_pin_num": "الرقم السرى للبطاقة",
+  "exp_date": "MM/YY",
+  "pin_msg_atm": "هذا الرقم السري هو كلمة المرور التي تستخدمها في أجهزة\nالصراف الآلي.",
+  "invalid_card_number": "رقم الكارت غير صحيح",
+  "password_incorrect": "الرقم السري غير صحيح",
+  "successful_reset": "إعادة تعيين ناجحة!",
+  "password_reset_successfully": "تم إعادة تعيين كلمة المرور بنجاح",
+  "some_data_invalid": "بعض من البيانات المدخلة غير صحيحة،برجاء التاكد والمحاولة مرة أخرى",
+  "amount_must_be_less_than_max_due_amount": "يجب أن يكون المبلغ أقل من {maxAmount}",
+  "@amount_must_be_less_than_max_due_amount": {
+    "placeholders": {
+      "maxAmount": {
+        "type": "String"
+      }
+    }
+  },
+  "cant_show_nearby_branches_atm": "لا يمكن عرض الفروع/أجهزة الصراف الآلي القريبة",
+  "cant_show_nearby_branches_atm_info": "لم نتمكن من الوصول إلى موقعك. لعرض الفروع وأجهزة الصراف الآلي القريبة، يُرجى تفعيل خدمات الموقع من إعدادات جهازك.",
+  "enable_location": "تفعيل الموقع",
+  "x_results_found": "تم العثور على {count} نتائج",
+  "@x_results_found": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "connection_timeout": "مهلة الاتصال",
+  "session_expired": "انتهت الجلسة",
+  "compromised_device_message": "هذا الجهاز مروّت أو مكسور الحماية. لأسباب أمنية، لا يجب استخدام هذا التطبيق. لن يعمل.",
+  "compromised_device_title": "تنبيه أمني",
+  "session_expired_message": "انتهت صلاحية الجلسة. يُرجى تسجيل الدخول مرة أخرى للمتابعة.",
+  "swift_code": "الرمز التعريفي للبنك",
+  "iban_number": "رقم IBAN",
+  "copied_successfully": "تم النسخ بنجاح",
+  "copied": "تم النسخ",
+  "disclaimer_cd": "الحد الأدنى لقيمة الشهادة هو {amount}",
+  "@disclaimer_cd": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "disclaimer_td": "الحد الأدنى لقيمة الوديعة هو {amount}",
+  "@disclaimer_td": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "select_leaves_number_to_proceed": "يرجى اختيار عدد أوراق الشيكات للمتابعة",
+  "show_session_overlay": "Show session overlay",
+  "token_expires_at": "Token Expires At: {time}",
+  "expires_in": "Expires In: ${time} seconds",
+  "eligible_for_refresh": "Eligible for Refresh: {value}",
+  "refreshing": "Refreshing: {value}",
+  "no": "No",
+  "idle": "Idle",
+  "authenticate_to_complete_setup": "قم بالمصادقة لإكمال الإعداد",
+  "authenticate_to_login": "قم بالمصادقة لتسجيل الدخول",
+  "biometric_disabled_for_device_title": "تم تعطيل تسجيل الدخول بالبصمة",
+  "biometric_disabled_for_device_message": "قمنا بإلغاء تسجيل الدخول بالبصمة لهذا الجهاز لأننا لاحظنا تسجيل دخول من جهاز آخر.",
+  "x_leaves": "{number} صفحة",
+  "@x_leaves": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "please_try_again_later": "اعد المحاوله في وقت اخر",
+  "otp_code_sent_to_your_number_new": "تم إرسال رمز التحقق إلى رقم هاتفك المسجل.",
+  "life_board_onboarding_sub_text": "تابع كل فعالياتك في عرض ذكي وسهل الاستخدام.",
+  "discover": "استكشف",
+  "add_new_event_title": "إضافة فعالية جديدة",
+  "event_details_title": "تفاصيل الفعالية",
+  "event_details_subtitle": "من فضلك أدخل اسم الفعالية واختر التاريخ لإنشاء فعالية جديدة.",
+  "event_name_hint": "اسم الفعالية",
+  "event_type_hint": "نوع الفعالية",
+  "select_type_hint": "اختر نوع الفعالية",
+  "event_date_hint": "تاريخ الفعالية",
+  "event_note_hint": "ملحوظة (إختياري)",
+  "event_added_title": "تمت إضافة الفعالية!",
+  "event_added_message": "تمت إضافة الفعالية بنجاح",
+  "done_button": "تم",
+  "this_field_required": "هذا الحقل مطلوب",
+  "update_event_button": " تحديث الفعالية",
+  "delete_event_button": "حذف الفعالية",
+  "confirmDeletionTitle": "تأكيد الحذف",
+  "confirmDeletionSubtitle": "هل أنت متأكد أنك تريد حذف هذه الفعالية؟",
+  "total_earning": "إجمالي الأرباح",
+  "total_dues": "إجمالي المستحقات",
+  "monthly_overview": "ملخص الشهر",
+  "never_miss_thing": "كن على اطلاع دائم!",
+  "check_your_events": "اطلع على الفعاليات القادمة الخاصة بك",
+  "welcome_to_lifeboard": "أهلاً بك في",
+  "click_to_discover": "اضغط هنا لاستكشافها",
+  "you_have_events": "لديك {count} فعاليات اليوم",
+  "@you_have_events": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today_with_date": "اليوم, {date}",
+  "@today_with_date": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "select_year": "اختر السنة",
+  "could_not_load_events": "لم نتمكن من تحميل الفاعليات الخاصة بك",
+  "you_have_no_events": "لا توجد أي فعاليات لهذا الشهر",
+  "month_year": "{year} {month}",
+  "@month_year": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "add_new_scheduled_transfer": "إضافة تحويل مجدول جديد",
+  "birthday": "عيد ميلاد",
+  "anniversary": "ذكرى",
+  "other": "أخرى",
+  "app_language": "لغة التطبيق",
+  "locale_language": "العربية",
+  "english": "English",
+  "arabic": "العربية",
+  "total_available_balance": "إجمالى الرصيد المتاح",
+  "deactivate_biometric_login": "إلغاء تفعيل الدخول بالبصمة",
+  "deactivate_biometric_login_msg": "هل أنت متأكد أنك تريد إلغاء تفعيل الدخول بالبصمة؟",
+  "deactivate": "إلغاء التفعيل",
+  "biometric_login_deactivated_successfully": "تم إلغاء تفعيل الدخول بالبصمة بنجاح",
+  "biometric_activated_successfully": "تم تفعيل الدخول بالبصمة بنجاح",
+  "enable_biometric": "تفعيل الدخول بالبصمة",
+  "biometric_activation_failed": "تعذر تفعيل تسجيل الدخول بالبصمة",
+  "biometric_deactivation_failed": "تعذر إيقاف تسجيل الدخول بالبصمة",
+  "face_id_fingerprint": "بصمة الوجه / بصمة الإصبع",
+  "january": "يناير",
+  "february": "فبراير",
+  "march": "مارس",
+  "april": "ابريل",
+  "may": "مايو",
+  "june": "يونيه",
+  "july": "يوليو",
+  "august": "أغسطس",
+  "september": "سبتمبر",
+  "october": "اكتوبر",
+  "november": "نوفمبر",
+  "december": "ديسمبر",
+  "receive_cd_interest": "استلام عائد الشهادة",
+  "receive_td_interest": "استلام عائد الوديعة",
+  "pay_loan_due": "سدد قسط القرض",
+  "pay_credit_card_due": "سدّد مستحقات بطاقة الائتمان",
+  "event_updated_successfully": "تم تحديث الفعالية بنجاح",
+  "event_deleted_successfully": "تم حذف الفعالية بنجاح",
+  "weeks_left": "/{number} اسبوع",
+  "@weeks_left": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "maximum_limit_reached": "تم الوصول إلى الحد الأقصى",
+  "maximum_limit_reached_message": "يمكنك اختيار ما يصل إلى {number} إجراءات سريعة فقط. لإضافة إجراء جديد، يرجى إلغاء تحديد أحد العناصر الحالية.",
+  "@maximum_limit_reached_message": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "minimum_limit_reached": "الحد الأدنى غير مكتمل",
+  "minimum_limit_reached_message": "يجب اختيار {number} إجراءات سريعة على الأقل للمتابعة. يرجى تحديد المزيد لإكمال الإعداد.",
+  "@minimum_limit_reached_message": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "you_have_events_today": "لديك {number} فعاليات اليوم",
+  "@you_have_events_today": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "soft_token_welcome_msg": "مرحبًا بك في تفعيل الرمز، ستقوم بذلك خلال خطوات بسيطة.",
+  "soft_token_activation_step_one_title": "احصل على رمز التسجيل",
+  "soft_token_activation_step_one_sub_title": "افتح تطبيق SCB Token، واتبع التعليمات، ثم انسخ رمز التسجيل.",
+  "soft_token_activation_step_two_title": "الصق الرمز",
+  "soft_token_activation_step_two_sub_title": "عد إلى تطبيق SCB موبايل للصق رمز التسجيل.",
+  "soft_token_activation_step_three_title": "إكمال التفعيل",
+  "soft_token_activation_step_three_sub_title": "اضغط على \"متابعة\" في تطبيق الرمز، ثم عد إلى هنا لإكمال التفعيل.",
+  "view_demo": "شاهد الفديو",
+  "soft_token_support": "لمزيد من الدعم؟",
+  "step_of": "الخطوة {currentStep} من {totalSteps}",
+  "get_registration_code": "أدخل رمز التسجيل",
+  "get_your_registration_code": "افتح تطبيق التوكن الإلكتروني، وانسخ رمز التسجيل، ثم الصقه هنا.",
+  "soft_token_get_registration_code_msg": "افتح تطبيق SCB Token، وانسخ رمز التسجيل، ثم ارجع إلى هنا للصقه.",
+  "complete_activation": "إكمال التفعيل",
+  "complete_activation_msg": "تابع الخطوات التالية في تطبيق التوكن الإلكتروني الخاص بك.",
+  "scb_token_app": "SCB Token تطبيق  ",
+  "open_app": "فتح التطبيق",
+  "soft_token_app_tapped_confirmation": "نعم، لقد ضغطت على \"متابعة\" في تطبيق SCB Token.",
+  "soft_token_app_tapped_confirmation_msg": "هذا يؤكد أنك أتممت الإعداد داخل تطبيق SCB Token.",
+  "soft_token_activation_in_few_steps": "تفعيل الرمز، ستقوم بذلك خلال خطوات بسيطة.",
+  "ok_got_it": "حسنًا، فهمت.",
+  "download_scb_soft_token_app": "حمّل تطبيق Soft Token",
+  "copy_following_code": "قم بنسخ التالي",
+  "copy_following_code_msg": "يرجى إدخال رمز التفعيل والرقم التسلسلي في تطبيق التوكن الإلكتروني.",
+  "download_scb_soft_token_app_msg": "استخدم تطبيق SCB Token لتفعيل رمز الامان الخاص بك.",
+  "download_and_install_now": "حمّل وثبّت الآن",
+  "soft_token_activation_confirmation_error_msg": "يرجى تأكيد تفعيل التوكن قبل المتابعة.",
+  "soft_token_closing_confirmation_msg": "الخروج الآن سيُلغي كل التعديلات التي أجريتها.",
+  "go_to_scb_app": "اذهب الي التطبيق",
+  "app_settings": "إعدادات التطبيق",
+  "user_settings": "إعدادات المستخدم",
+  "language_title": "لغة التطبيق",
+  "inactive": "غير مُفعل",
+  "missing_information": "معلومات مفقودة",
+  "login_missing_information_msg": "يرجى إدخال كلٍّ من اسم المستخدم وكلمة المرور لتسجيل الدخول.",
+  "user_name_missing": "اسم المستخدم مفقود",
+  "user_name_missing_msg": "يرجى إدخال اسم المستخدم لتسجيل الدخول.",
+  "password_missing": "كلمة المرور مفقودة",
+  "password_missing_msg": "يرجى إدخال كلمة المرور لتسجيل الدخول.",
+  "appearance": "المظهر",
+  "light": "فاتح",
+  "dark": "داكن",
+  "system": "حسب النظام",
+  "activate_title": "مُفعل",
+  "shake_device_to": "حرّك الجهاز لـ",
+  "apply_for_current_account": "فتح حساب جاري جديد",
+  "apply_for_saving_account": "فتح حساب توفير جديد",
+  "deduct_from": "خصم من",
+  "interest": "الفائدة",
+  "current_account_opened_successfully": "تم فتح الحساب الجاري بنجاح",
+  "saving_account_opened_successfully": "تم فتح حساب التوفير بنجاح",
+  "opening_amount": "مبلغ فتح الحساب",
+  "opening_amount_cd": "مبلغ فتح الشهادة",
+  "opening_amount_td": "مبلغ فتح الوديعة",
+  "add_more_and_enjoy": "أضف {amount} أو أكثر واستمتع بفائدة ",
+  "@add_more_and_enjoy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "view_account": "عرض الحساب",
+  "less_than": "أقل من",
+  "know_more": "اعرف أكثر",
+  "and_above": "وأكثر",
+  "for_": "ل",
+  "interest_details": "تفاصيل الفائدة",
+  "chequebook_available_for_all_accounts": "دفتر الشيكات متاح لجميع الحسابات.",
+  "collateral_details": "تفاصيل الضمانات",
+  "message_collateral_details": "قم بمراجعة الودائع والشهادات المستخدمة كضمان لقرضك.",
+  "total_blocked_amount": "إجمالي المبلغ المحجوز",
+  "multiple": "متعددة",
+  "interest_and_amount_added_same_maturity_td": "ستُضاف الفائدة ومبلغ الوديعة عند الاستحقاق إلى نفس الحساب.",
+  "interest_and_amount_added_same_maturity_cd": "ستُضاف الفائدة ومبلغ الشهادة عند الاستحقاق إلى نفس الحساب.",
+  "select_duration": "اختر المدة",
+  "select_frequency": "اختر الفائدة",
+  "paid_after_maturity": "تُدفع عند الاستحقاق ",
+  "interest_amount": "قيمة الفائدة",
+  "not_eligible_for": "غير متاح ل {productType}",
+  "@not_eligible_for": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "not_eligible_for_description": "{productType} غير متاحة للعملة {currency}.",
+  "@not_eligible_for_description": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "benefits": "فوائد",
+  "cd_td_benefits_1": "القدرة على إصدار الشهادات عبر خدمة الخدمات المصرفية عبر الهاتف المحمول.",
+  "cd_td_benefits_2": "يتم احتساب الفائدة اعتبارًا من يوم العمل التالي لتاريخ الإصدار.",
+  "cd_td_benefits_3": "مؤهلة لاقتراض ما يصل إلى 90٪ من قيمتها.",
+  "cd_td_benefits_4": "مؤهل للحصول على بطاقات الائتمان من بنك قناة السويس مع ضمان الشهادة.",
+  "deducted_account": "خصم من",
+  "cancel_product": "إلغاء {productType}",
+  "@cancel_product": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "certificate_opened_successfully": "تم فتح الشهادة بنجاح",
+  "time_deposit_opened_successfully": "تم فتح الوديعة بنجاح",
+  "certificate_number": "رقم الشهادة",
+  "certificate_amount": "مبلغ الشهادة",
+  "certificate_details": "تفاصيل الشهادة",
+  "time_deposit_details": "تفاصيل الوديعة",
+  "received_interests": "استملت {received} من {total} فائدة",
+  "@received_interests": {
+    "placeholders": {
+      "received": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "deposit_number": "رقم الوديعة",
+  "deposit_amount": "مبلغ الوديعة",
+  "view_time_deposit": "عرض الوديعة",
+  "view_certificate": "عرض الشهادة",
+  "apply_for_certificate": "فتح شهادة جديدة",
+  "apply_for_time_deposit": "فتح وديعة جديدة",
+  "explore_our_variety_of_products": "استكشف مجموعة منتجاتنا المتنوعة",
+  "save_money_daily": "توفير المال يوميا",
+  "everyday_transactions": "المعاملات اليومية",
+  "long_term_saving": "الادخار على المدى الطويل",
+  "time_limited_saving": "الادخار بوقت محدد",
+  "pay_others": "ادفع للآخرين",
+  "select_account_to_proceed": "اختر حسابًا لخصم مبلغ فتح الحساب منه",
+  "my_products_description": "يمكنك الوصول إلى جميع منتجاتك في مكان واحد. الحسابات، الودائع، البطاقات، والمزيد.",
+  "view_my_products": "مشاهدة منتجاتي",
+  "all": "الكل",
+  "otp_support_message": "لم تحصل على الكود؟ اتصل بنا على {supportNumber} للحصول على الدعم.",
+  "soft_support_message": "لم تحصل على الكود؟ اتصل بنا على {supportNumber} للحصول على الدعم.",
+  "linked_to": "الحساب المرتبط به",
+  "number_of_pages": "عدد الصفحات",
+  "num_of_pages": "{page} صفحة",
+  "@num_of_pages": {
+    "placeholders": {
+      "page": {
+        "type": "int"
+      }
+    }
+  },
+  "num_of_pages_chequebook": "دفتر شيكات {page} صفحة",
+  "@num_of_pages_chequebook": {
+    "placeholders": {
+      "page": {
+        "type": "int"
+      }
+    }
+  },
+  "chequebook_fees": "رسوم الإصدار",
+  "this_is_your_home_branch": "هذا هو فرعك الرئيسي.",
+  "change": "تغيير",
+  "select_branch": "اختيار الفرع",
+  "your_cheque_request_received": "تم طلب دفتر الشيكات بنجاح",
+  "pickup_from": "إستلام من",
+  "chequebook_number": "رقم دفتر الشيكات",
+  "fees_value": "الرسوم: {fees}",
+  "@fees_value": {
+    "placeholders": {
+      "fees": {
+        "type": "String"
+      }
+    }
+  },
+  "total_accounts_balance": "إجمالي رصيد الحسابات",
+  "shake_device_to_quick_access": "حرّك الجهاز للوصول السريع",
+  "shake_message_description": "قم بتحريك هاتفك في أي وقت لفتح الاختصارات فورًا من أي مكان في التطبيق.",
+  "select_preferred_action": "اختر الإجراء المفضل",
+  "choose_transfer_type": "اختر نوع التحويل",
+  "own_transfer": "تحويل شخصي",
+  "normal_local_transfer": "تحويل محلي عادي",
+  "explore_new_products": "اكتشف منتجاتنا الجديدة",
+  "we_could_not_load_your_list": "لم نتمكن من إعادة تحميل قائمتك",
+  "you_do_not_have_certificates": "ليس لديك أي شهادات حتى الآن",
+  "you_do_not_have_time_deposits": "ليس لديك أي ودائع حتى الآن",
+  "once_apply_appear_here": "بمجرد فتح وديعة جديدة، ستظهر هنا.",
+  "no_certificate": "ليس لديك أي شهادات",
+  "no_time_deposit": "ليس لديك أي ودائع",
+  "no_certificate_available_for_currency": "لا توجد لديك شهادات لهذه العملة.",
+  "no_time_deposit_available_for_currency": "لا توجد لديك ودائع لهذه العملة.",
+  "see_all_currency_certificates": "عرض الشهادات بجميع العملات",
+  "see_all_currency_time_deposits": "عرض الودائع بجميع العملات",
+  "total_certificate_balance": "إجمالي رصيد الشهادات",
+  "total_time_deposit_balance": "إجمالي رصيد الودائع",
+  "total_balance_overview": "نظرة عامة على الرصيد الإجمالي",
+  "total_balance_overview_description": "يُظهر رصيدك الإجمالي جميع أموالك بمختلف العملات وأنواع المنتجات. تعتمد قيمة العملة على أحدث أسعار الصرف المتاحة في التحديث الأخير.",
+  "view_exchange_rate": "عرض سعر الصرف",
+  "you_do_not_have_products": "ليس لديك أي {productType} حتى الآن",
+  "@you_do_not_have_products": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "see_all_currency_products": "عرض {productType} بجميع العملات",
+  "@see_all_currency_products": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "no_product_available_for_currency": "لا توجد {productType} لهذه العملة",
+  "@no_product_available_for_currency": {
+    "placeholders": {
+      "productType": {
+        "type": "String"
+      }
+    }
+  },
+  "select_account_type": "اختر نوع الحساب",
+  "saving_account_only": "حساب توفير",
+  "current_account_only": "حساب جاري",
+  "apply_for_new_my_products": "فتح شهادة جديدة",
+  "up_to_": "تصل لـ",
+  "shake_to_go": "حرّك الجهاز للوصول السريع",
+  "shake_description": "حرك جهازك في أي وقت للوصول فورًا إلى الإجراءات الرئيسية من أي مكان في التطبيق. الأمر سريع وسهل ودائمًا جاهز. يمكنك إدارته من الإعدادات.",
+  "lets_do_it": "هيا بنا",
+  "time_deposits_": "الودائع",
+  "cheque_books": "دفاتر الشيكات",
+  "you_do_not_have_loans": "ليس لديك أي قروض حتى الآن",
+  "total_loans_balance": "إجمالي رصيد القروض",
+  "loan_no_placeholder": " رقم القرض: {accountId}",
+  "@loan_no_placeholder": {
+    "placeholders": {
+      "accountId": {
+        "type": "String"
+      }
+    }
+  },
+  "you_do_not_have_chequebooks": "ليس لديك أي دفتر شيكات حتى الآن",
+  "once_you_request_chequebook": "بمجرد التقديم على دفتر شيكات جديد، سيظهر هنا.",
+  "remaining_leaves": "{remaining} متبقي",
+  "@remaining_leaves": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "linked_to_account": "{accountType} - {accountId}",
+  "@linked_to_account": {
+    "placeholders": {
+      "accountType": {
+        "type": "String"
+      },
+      "accountId": {
+        "type": "String"
+      }
+    }
+  },
+  "request_new": "التقديم على دفتر جديد",
+  "remaining_cheque": "متبقي",
+  "chequebook_summary_fees": "رسوم الإصدار",
+  "you_do_not_have_cards": "ليس لديك أي بطاقات حتى الآن",
+  "once_you_request_card": "بمجرد التقديم على بطاقة جديدة، ستظهر هنا.",
+  "until": "حتى: {date}",
+  "apply_for_time_deposits": "فتح وديعة جديدة",
+  "once_apply_loan_appear": "بمجرد التقديم على قرض جديد، سيظهر هنا.",
+  "loan_paid": "مدفوع",
+  "loan_details_action": "تفاصيل",
+  "dont_show_again_shake": "عدم الإظهار مجددًا",
+  "no_cards": "لا توجد بطاقات",
+  "no_cards_currency": "لا توجد بطاقات متاحة لهذه العملة.",
+  "see_cards_currency": "عرض البطاقات بجميع العملات",
+  "pending_transactions": "معاملات قيد الانتظار",
+  "actual_balance": "الرصيد الفعلي",
+  "make_transfers": "إرسال تحويلات",
+  "set_default": "التعيين كأساسي",
+  "view_statements": "كشوفات الحساب",
+  "account_number_hint": "يمكنك العثور على رقم حسابك في كشوفات البنك.\n إذا كنت بحاجة إلى مساعدة، يرجى الاتصال بنا على {number}.",
+  "account_number_register_invalid": "رقم الحساب غير صحيح",
+  "national_id_invalid": "رقم بطاقة الرقم القومي/ رقم جواز السفر غير صالح",
+  "cif_number_invalid": "الرقم التعريفى للعميل غير صحيح",
+  "invalid_error_message": "بعض البيانات المدخلة غير صحيحة. يرجى\n التحقق مرة أخرى والمحاولة مجددًا.\n للمساعدة، تواصل معنا على ({number}).",
+  "terms_not_accepted": "لم يوافق على الشروط",
+  "registration": "التسجيل",
+  "set_default_button": "تعيين كأساسي",
+  "default_account": "الحساب الافتراضي",
+  "un_set_default_confirmation_message": "هل أنت متأكد أنك تريد إلغاء تعيين هذا الحساب كحساب أساسي؟",
+  "set_default_confirmation_message": "هل أنت متأكد أنك تريد تعيين هذا الحساب كحساب أساسي؟",
+  "un_set_default": "إلغاء التعيين كأساسي",
+  "account_unset_successfully": "تم إلغاء تعيين الحساب بنجاح",
+  "account_set_successfully": "تم تعيين الحساب الأساسي بنجاح",
+  "account_set_successfully_message": "يمكنك استخدام هذا الحساب كحساب أساسي.",
+  "can_t_set_as_default": "لا يمكن تعيينه كحساب أساسي",
+  "can_t_set_as_default_message": "لا يمكنك تعيين هذا الحساب كحساب أساسي لأنه بعملة مختلفة، يرجى اختيار حساب جنيه مصري لتعيينه كحساب أساسي.",
+  "default_": "أساسي",
+  "new_user_register": "تسجيل مستخدم جديد",
+  "i_agree_button": "أوافق",
+  "terms_and_conditions_agreement_registration": "لقد قرأت وأوافق على ",
+  "cancellation": "إلغاء",
+  "papers": "صفحة",
+  "total_pages": "إجمالي الصفحات",
+  "linked_account": "الحساب المرتبط به",
+  "amount_received": "تم استقبال المبلغ",
+  "amount_deducted": "تم خصم المبلغ",
+  "ref_id": "الرقم المرجعي:",
+  "transaction_details": "تفاصيل المعاملة",
+  "transaction_receipt_powered_by": "بواسطة بنك قناة السويس",
+  "credited_amount_title": "المبلغ المحول",
+  "action_after_maturity": "الإجراء عند الاستحقاق",
+  "maturity_renew": "تجديد",
+  "maturity_not_renew": "عدم التجديد",
+  "maturity_change": "تغيير",
+  "save": "حفظ",
+  "upcoming_installment": "القسط القادم",
+  "installment_date": "تاريخ استحقاق القسط",
+  "upcoming_interest": "الفائدة القادمة",
+  "certificate_start_date": "تاريخ فتح الشهادة",
+  "td_start_date": "تاريخ فتح الوديعة",
+  "td_end_date": "تاريخ انتهاء الوديعة",
+  "certificate_end_date": "تاريخ الانتهاء",
+  "do_not_renew": "عدم التجديد",
+  "renew_description": "سيتم استرداد الشهادة عند الاستحقاق",
+  "time_deposit_amount": "مبلغ الوديعة",
+  "pay_next": "سداد البطاقة",
+  "card_due": "مستحقات البطاقة",
+  "utilised_limit": "الرصيد المستخدم",
+  "card_total_limit": "الحد الأقصى للبطاقة:",
+  "card_holder_name": "اسم حامل البطاقة",
+  "expiry_date": "تاريخ الانتهاء",
+  "clearing_status": "حالة المقاصة",
+  "cheque_number": "رقم الشيك",
+  "issuer_bank": "البنك المُصدر",
+  "share_transaction": "مشاركة المعاملة",
+  "deposit_number_title": "رقم الشهادة",
+  "paid_out_of_installments": "تم دفع {paidInstallments} من {totalInstallments} قسط",
+  "@paid_out_of_installments": {
+    "placeholders": {
+      "paidInstallments": {
+        "type": "int"
+      },
+      "totalInstallments": {
+        "type": "int"
+      }
+    }
+  },
+  "loan_amount": "قيمة القرض",
+  "autoPay": "Autopay",
+  "automatically_pay_installments_on_time": "Automatically pay the installments on time.",
+  "loan_installments": "أقساط القرض",
+  "review_upcoming_and_past_installments": "مراجعة أقساطك القادمة والسابقة",
+  "next_installment": "القسط القادم",
+  "loan_number": "رقم القرض",
+  "loan_months_left": "{months} Months",
+  "@loan_months_left": {
+    "placeholders": {
+      "months": {
+        "type": "int"
+      }
+    }
+  },
+  "total_overdue": "إجمالي المبلغ المتأخر",
+  "due_interest": "الفائدة المُستحقة",
+  "penalties": "غرامات",
+  "installments_num": "{num} أقساط (أصل المبلغ)",
+  "maturity_update_success_title": "تم تحديث الإجراء عند الاستحقاق",
+  "maturity_update_success_subtitle": "تم تحديث إجراء الاستحقاق بنجاح. وقد يتأخر ظهور التحديث قليلًا. لذا يُرجى إعادة التحقق لاحقًا للتأكيد.",
+  "maturity_update_fail_title": "فشل التحديث",
+  "maturity_update_fail_subtitle": "لم نتمكن من تحديث إجراء الاستحقاق الخاص بك\n في الوقت الحالي.",
+  "you_need_to_pay_overdue_amt": "You need to pay the overdue amount first, and then you can pay the next installment.",
+  "maturity_update_success": "لقد تم تحديث تعليمات الاستحقاق الخاصة بك بنجاح.",
+  "maturity_update_fail": "لم نتمكن من تحديث تعليمات الاستحقاق الخاصة بك.",
+  "description": "الوصف",
+  "set_default_button_title": "التعيين كحساب أساسي",
+  "un_set_default_button_title": "إلغاء كحساب أساسي",
+  "atm_location": "موقع الصراف الآلي",
+  "atm_id": "معرف الصراف الآلي",
+  "merchant_name": "اسم التاجر",
+  "branch_name": "اسم الفرع",
+  "depositor_name": "اسم المودع",
+  "withdrawals_name": "اسم الساحب",
+  "action_after_maturity_td_sub_title": "يمكنك تغيير ذلك حتى يومين من تاريخ الاستحقاق.",
+  "action_after_maturity_td_opening_message": "يمكنك تغيير ذلك بعد فتح الوديعة.",
+  "action_after_maturity_cd_sub_title": "يمكنك تغيير هذا الخيار مرة واحدة يوميًا، حتى قبل يومين\n من تاريخ الاستحقاق",
+  "action_after_maturity_cd_opening_message": "يمكنك تحديث هذا بعد فتح شهادتك",
+  "reference_id": "الرقم المرجعي",
+  "unpaid": "غير مدفوع",
+  "upcoming_loan_installments": "القادمة",
+  "loan_detail_paid": "المدفوع",
+  "loan_remaining": "المتبقي",
+  "loan_due_date": "تاريخ الدفع:",
+  "could_not_verify_soft_token_status_message": "تعذّر علينا التحقق من حالة الرمز الآمن (Soft Token). يرجى المحاولة مرة أخرى بعد قليل.",
+  "something_went_wrong_dialog": "حدث خطأ!",
+  "maturity_action_update_note": " قد يتأخر ظهور التحديث بعض الوقت. يرجى \nالتحقق لاحقًا للتأكيد.",
+  "maturity_update_success_title_note": "تحديث الإجراء عند الاستحقاق",
+  "soft_token_already_active": "رمز الأمان الخاص بك مُفعل بالفعل",
+  "facing_issues_help": "هل تواجه مشكلة؟ ما عليك سوى إعادة تفعيل الرمز الخاص بك في أي وقت.",
+  "deactivation_completed": "اكتمل إلغاء التفعيل",
+  "deactivation_desc": "تم إلغاء تفعيل الرمز الخاص بك بنجاح. يمكنك تفعيله مرة أخرى في أي وقت.",
+  "keep_in_mind": "تذكّر دائمًا",
+  "you_can_activate_soft_token_again": "بإمكانك تفعيل رمز الأمان الخاص بك مرة أخرى في أي وقت من قائمة المزيد.",
+  "soft_token_status": "حالة رمز الأمان غير متاحة",
+  "soft_token_status_desc": "حالة رمز الأمان غير متاحة في الوقت الحالي، يرجى المحاولة مرة أخرى بعد بضع دقائق.",
+  "unavailable": "غير متاح",
+  "deactivation_failed_desc": "لم نتمكن من إكمال طلبك لفتح المنتج. يرجى المحاولة مرة أخرى لاحقًا.",
+  "something_went_wrong_operation": "لقد حدث خطأ ما!",
+  "done_operation": "حسنًا",
+  "cancel_deactivation_dialog": "تجاهل",
+  "download_e_statement": "تحميل كشف الحساب",
+  "monthly_statements": "الكشوفات الشهرية",
+  "select_statement_year": "اختر السنة",
+  "current_year": "السنة الحالية",
+  "no_statements_found": "لا يوجد كشوفات حساب متاحة",
+  "no_statements_found_subtitle": "ليس لديك أي اشتراكات في كشوفات الحساب لهذا العام.",
+  "choose_year_to_see_statements": "اختر السنة لعرض الكشوفات المتاحة.",
+  "could_not_load_statements": "لم نتمكن من تحميل التحويلات",
+  "year": "السنة",
+  "transferred_successfully": "تم التحويل بنجاح",
+  "claim_offer": "الحصول على العرض",
+  "your_promo_code": "كود العرض",
+  "copy_code": "نسخ الكود",
+  "eligible_cards": "البطاقات المؤهلة للعرض",
+  "fashion": "الملابس",
+  "automotive": "السيارات",
+  "electronics": "الإلكترونيات",
+  "furniture": "الأثاث",
+  "gifts": "الهدايا",
+  "health_care": "الرعاية الصحية",
+  "installments": "التقسيط",
+  "online_applications": "التطبيقات الإلكترونية",
+  "restaurants": "المطاعم",
+  "stationary": "المكتبات",
+  "travel": "السفر",
+  "empty_offers": "لا يوجد عروض",
+  "empty_offers_content": "ستظهر العروض هنا بمجرد توفرها."
+}
